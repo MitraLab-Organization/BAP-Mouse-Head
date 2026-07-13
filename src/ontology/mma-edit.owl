@@ -603,7 +603,7 @@
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021707 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021707">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0020101"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099078"/>
         <obo:IAO_0000115 xml:lang="en">Middle ear containing ossicles (incus, malleus, stapes)</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Middle ear</rdfs:label>
     </owl:Class>
@@ -765,8 +765,8 @@
     <!-- http://purl.obolibrary.org/obo/BAP_0021730 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021730">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0020007"/>
-        <obo:IAO_0000115 xml:lang="en">Vibrissae tactile hair field</obo:IAO_0000115>
-        <rdfs:label xml:lang="en">Whiskers</rdfs:label>
+        <obo:IAO_0000115 xml:lang="en">Left vibrissae - tactile hairs</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Whiskers (L)</rdfs:label>
     </owl:Class>
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021731 -->
@@ -3084,16 +3084,16 @@
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021998 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021998">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0022024"/>
-        <obo:IAO_0000115 xml:lang="en">Left extraorbital portion of the lacrimal gland that produces tears</obo:IAO_0000115>
-        <rdfs:label xml:lang="en">Extraorbital lacrimal gland (L)</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0020005"/>
+        <obo:IAO_0000115 xml:lang="en">Left gland that produces tears</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Lacrimal gland (L)</rdfs:label>
     </owl:Class>
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021999 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021999">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0022024"/>
-        <obo:IAO_0000115 xml:lang="en">Right extraorbital portion of the lacrimal gland that produces tears</obo:IAO_0000115>
-        <rdfs:label xml:lang="en">Extraorbital lacrimal gland (R)</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0020005"/>
+        <obo:IAO_0000115 xml:lang="en">Right gland that produces tears</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Lacrimal gland (R)</rdfs:label>
     </owl:Class>
 
     <!-- http://purl.obolibrary.org/obo/BAP_0022009 -->
@@ -3126,7 +3126,7 @@
 
     <!-- http://purl.obolibrary.org/obo/BAP_0022013 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0022013">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0020101"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099078"/>
         <obo:IAO_0000115 xml:lang="en">Sensory organ containing cochlea, semicircular canals, and vestibule</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Inner Ear</rdfs:label>
     </owl:Class>
@@ -21014,6 +21014,160 @@
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0021730"/>
         <obo:IAO_0000115 xml:lang="en">Right E7 whisker</obo:IAO_0000115>
         <rdfs:label xml:lang="en">E7 (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099061 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099061">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0000001"/>
+        <obo:IAO_0000115 xml:lang="en">Dentition of the mouse head</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Teeth</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099062 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099062">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099061"/>
+        <obo:IAO_0000115 xml:lang="en">Left upper incisor tooth</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Upper incisor (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099063 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099063">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099061"/>
+        <obo:IAO_0000115 xml:lang="en">Right upper incisor tooth</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Upper incisor (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099064 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099064">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099061"/>
+        <obo:IAO_0000115 xml:lang="en">Left lower incisor tooth</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Lower incisor (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099065 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099065">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099061"/>
+        <obo:IAO_0000115 xml:lang="en">Right lower incisor tooth</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Lower incisor (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099066 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099066">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099061"/>
+        <obo:IAO_0000115 xml:lang="en">Left first upper molar tooth</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Upper molar 1 (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099067 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099067">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099061"/>
+        <obo:IAO_0000115 xml:lang="en">Right first upper molar tooth</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Upper molar 1 (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099068 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099068">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099061"/>
+        <obo:IAO_0000115 xml:lang="en">Left second upper molar tooth</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Upper molar 2 (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099069 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099069">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099061"/>
+        <obo:IAO_0000115 xml:lang="en">Right second upper molar tooth</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Upper molar 2 (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099070 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099070">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099061"/>
+        <obo:IAO_0000115 xml:lang="en">Left third upper molar tooth</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Upper molar 3 (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099071 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099071">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099061"/>
+        <obo:IAO_0000115 xml:lang="en">Right third upper molar tooth</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Upper molar 3 (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099072 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099072">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099061"/>
+        <obo:IAO_0000115 xml:lang="en">Left first lower molar tooth</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Lower molar 1 (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099073 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099073">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099061"/>
+        <obo:IAO_0000115 xml:lang="en">Right first lower molar tooth</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Lower molar 1 (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099074 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099074">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099061"/>
+        <obo:IAO_0000115 xml:lang="en">Left second lower molar tooth</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Lower molar 2 (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099075 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099075">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099061"/>
+        <obo:IAO_0000115 xml:lang="en">Right second lower molar tooth</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Lower molar 2 (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099076 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099076">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099061"/>
+        <obo:IAO_0000115 xml:lang="en">Left third lower molar tooth</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Lower molar 3 (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099077 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099077">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099061"/>
+        <obo:IAO_0000115 xml:lang="en">Right third lower molar tooth</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Lower molar 3 (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099078 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099078">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0020101"/>
+        <obo:IAO_0000115 xml:lang="en">Ear structures of the cranium including tympanic bulla, middle ear, and inner ear</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Ear</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099079 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099079">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099078"/>
+        <obo:IAO_0000115 xml:lang="en">Left bony bulbous expansion of the temporal bone enclosing the middle ear</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Tympanic bulla (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099080 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099080">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099078"/>
+        <obo:IAO_0000115 xml:lang="en">Right bony bulbous expansion of the temporal bone enclosing the middle ear</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Tympanic bulla (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099081 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099081">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0000138"/>
+        <obo:IAO_0000115 xml:lang="en">Left alisphenoid bone; forms part of the sphenoid complex and cranial base</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Alisphenoid (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099082 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099082">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0000138"/>
+        <obo:IAO_0000115 xml:lang="en">Right alisphenoid bone; forms part of the sphenoid complex and cranial base</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Alisphenoid (R)</rdfs:label>
     </owl:Class>
 
 </rdf:RDF>
