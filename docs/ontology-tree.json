@@ -70,7 +70,7 @@
       "id": "BAP_000050",
       "name": "Trapezius",
       "definition": "",
-      "parent": "BAP_0021101"
+      "parent": "BAP_0099114"
     },
     "BAP_0000078": {
       "id": "BAP_0000078",
@@ -388,7 +388,7 @@
       "id": "BAP_0021703",
       "name": "Laryngeal muscles",
       "definition": "Laryngeal muscles",
-      "parent": "BAP_0021101"
+      "parent": "BAP_0099114"
     },
     "BAP_0021704": {
       "id": "BAP_0021704",
@@ -400,7 +400,7 @@
       "id": "BAP_0021705",
       "name": "Pharyngeal muscles",
       "definition": "Pharyngeal muscles",
-      "parent": "BAP_0021101"
+      "parent": "BAP_0099114"
     },
     "BAP_0021706": {
       "id": "BAP_0021706",
@@ -550,13 +550,13 @@
       "id": "BAP_0021730",
       "name": "Whiskers (L)",
       "definition": "Left vibrissae - tactile hairs",
-      "parent": "BAP_0020007"
+      "parent": "BAP_0099089"
     },
     "BAP_0021731": {
       "id": "BAP_0021731",
       "name": "Whiskers (R)",
       "definition": "Right vibrissae - tactile hairs",
-      "parent": "BAP_0020007"
+      "parent": "BAP_0099090"
     },
     "BAP_0021732": {
       "id": "BAP_0021732",
@@ -1594,13 +1594,13 @@
       "id": "BAP_0021904",
       "name": "Sternofacialis left (L)",
       "definition": "Left sternofacial muscle",
-      "parent": "BAP_0000079"
+      "parent": "BAP_0022022"
     },
     "BAP_0021905": {
       "id": "BAP_0021905",
       "name": "Sternofacialis left (R)",
       "definition": "Right sternofacial muscle",
-      "parent": "BAP_0000079"
+      "parent": "BAP_0022022"
     },
     "BAP_0021906": {
       "id": "BAP_0021906",
@@ -1690,61 +1690,61 @@
       "id": "BAP_0021920",
       "name": "Cleidooccipitalis (L)",
       "definition": "Left muscle connecting clavicle to occiput",
-      "parent": "BAP_0021101"
+      "parent": "BAP_0099114"
     },
     "BAP_0021921": {
       "id": "BAP_0021921",
       "name": "Cleidooccipitalis (R)",
       "definition": "Right muscle connecting clavicle to occiput",
-      "parent": "BAP_0021101"
+      "parent": "BAP_0099114"
     },
     "BAP_0021922": {
       "id": "BAP_0021922",
       "name": "Cleidomastoideus (L)",
       "definition": "Left muscle connecting clavicle to mastoid process",
-      "parent": "BAP_0021101"
+      "parent": "BAP_0099114"
     },
     "BAP_0021923": {
       "id": "BAP_0021923",
       "name": "Cleidomastoideus (R)",
       "definition": "Right muscle connecting clavicle to mastoid process",
-      "parent": "BAP_0021101"
+      "parent": "BAP_0099114"
     },
     "BAP_0021924": {
       "id": "BAP_0021924",
       "name": "Sternomastoideus (L)",
       "definition": "Left muscle connecting sternum to mastoid process",
-      "parent": "BAP_0021101"
+      "parent": "BAP_0099114"
     },
     "BAP_0021925": {
       "id": "BAP_0021925",
       "name": "Sternomastoideus (R)",
       "definition": "Right muscle connecting sternum to mastoid process",
-      "parent": "BAP_0021101"
+      "parent": "BAP_0099114"
     },
     "BAP_0021926": {
       "id": "BAP_0021926",
       "name": "Cricothyroideus (L)",
       "definition": "Left muscle connecting cricoid to thyroid cartilage; tenses vocal folds",
-      "parent": "BAP_0021101"
+      "parent": "BAP_0099111"
     },
     "BAP_0021927": {
       "id": "BAP_0021927",
       "name": "Cricothyroideus (R)",
       "definition": "Right muscle connecting cricoid to thyroid cartilage; tenses vocal folds",
-      "parent": "BAP_0021101"
+      "parent": "BAP_0099111"
     },
     "BAP_0021928": {
       "id": "BAP_0021928",
       "name": "Jugulohyoideus (L)",
       "definition": "Left muscle connecting jugular region to hyoid bone",
-      "parent": "BAP_0021101"
+      "parent": "BAP_0099114"
     },
     "BAP_0021929": {
       "id": "BAP_0021929",
       "name": "Jugulohyoideus (R)",
       "definition": "Right muscle connecting jugular region to hyoid bone",
-      "parent": "BAP_0021101"
+      "parent": "BAP_0099114"
     },
     "BAP_0021930": {
       "id": "BAP_0021930",
@@ -1762,49 +1762,49 @@
       "id": "BAP_0021932",
       "name": "Sternohyoideus (L)",
       "definition": "Left infrahyoid muscle; depresses hyoid bone after swallowing",
-      "parent": "BAP_0012007"
+      "parent": "BAP_0099111"
     },
     "BAP_0021933": {
       "id": "BAP_0021933",
       "name": "Sternohyoideus (R)",
       "definition": "Right infrahyoid muscle; depresses hyoid bone after swallowing",
-      "parent": "BAP_0012007"
+      "parent": "BAP_0099111"
     },
     "BAP_0021934": {
       "id": "BAP_0021934",
       "name": "Omohyoideus (L)",
       "definition": "Left infrahyoid muscle; depresses hyoid bone and stabilizes during speech",
-      "parent": "BAP_0021101"
+      "parent": "BAP_0099111"
     },
     "BAP_0021935": {
       "id": "BAP_0021935",
       "name": "Omohyoideus (R)",
       "definition": "Right infrahyoid muscle; depresses hyoid bone and stabilizes during speech",
-      "parent": "BAP_0021101"
+      "parent": "BAP_0099111"
     },
     "BAP_0021936": {
       "id": "BAP_0021936",
       "name": "Sternothyroideus (L)",
       "definition": "Left muscle that depresses thyroid cartilage",
-      "parent": "BAP_0021101"
+      "parent": "BAP_0099111"
     },
     "BAP_0021937": {
       "id": "BAP_0021937",
       "name": "Sternothyroideus (R)",
       "definition": "Right muscle that depresses thyroid cartilage",
-      "parent": "BAP_0021101"
+      "parent": "BAP_0099111"
     },
     "BAP_0021938": {
       "id": "BAP_0021938",
       "name": "Thyrohyoideus (L)",
       "definition": "Left muscle that depresses hyoid and elevates thyroid",
-      "parent": "BAP_0021101"
+      "parent": "BAP_0099111"
     },
     "BAP_0021939": {
       "id": "BAP_0021939",
       "name": "Thyrohyoideus (R)",
       "definition": "Right muscle that depresses hyoid and elevates thyroid",
-      "parent": "BAP_0021101"
+      "parent": "BAP_0099111"
     },
     "BAP_0021940": {
       "id": "BAP_0021940",
@@ -2156,14 +2156,14 @@
     },
     "BAP_0021998": {
       "id": "BAP_0021998",
-      "name": "Extraorbital lacrimal gland (L)",
-      "definition": "Left extraorbital portion of the lacrimal gland that produces tears",
+      "name": "Lacrimal gland (L)",
+      "definition": "Left gland that produces tears",
       "parent": "BAP_0022024"
     },
     "BAP_0021999": {
       "id": "BAP_0021999",
-      "name": "Extraorbital lacrimal gland (R)",
-      "definition": "Right extraorbital portion of the lacrimal gland that produces tears",
+      "name": "Lacrimal gland (R)",
+      "definition": "Right gland that produces tears",
       "parent": "BAP_0022024"
     },
     "BAP_0022009": {
@@ -2259,37 +2259,37 @@
     "BAP_0022024": {
       "id": "BAP_0022024",
       "name": "Lacrimal gland",
-      "definition": "Tear-producing glands of the orbit",
+      "definition": "Parent group for lacrimal glands",
       "parent": "BAP_0020005"
     },
     "BAP_0022025": {
       "id": "BAP_0022025",
       "name": "Intraorbital lacrimal gland (L)",
-      "definition": "Left intraorbital portion of the lacrimal gland within the orbit",
+      "definition": "Left lacrimal gland located within the orbit",
       "parent": "BAP_0022024"
     },
     "BAP_0022026": {
       "id": "BAP_0022026",
       "name": "Intraorbital lacrimal gland (R)",
-      "definition": "Right intraorbital portion of the lacrimal gland within the orbit",
+      "definition": "Right lacrimal gland located within the orbit",
       "parent": "BAP_0022024"
     },
     "BAP_0022027": {
       "id": "BAP_0022027",
       "name": "Harderian gland (L)",
-      "definition": "Left Harderian gland; orbital gland that lubricates the nictitating membrane",
+      "definition": "Left gland located behind the eye; secretes lipids",
       "parent": "BAP_0022024"
     },
     "BAP_0022028": {
       "id": "BAP_0022028",
       "name": "Harderian gland (R)",
-      "definition": "Right Harderian gland; orbital gland that lubricates the nictitating membrane",
+      "definition": "Right gland located behind the eye; secretes lipids",
       "parent": "BAP_0022024"
     },
     "BAP_0022029": {
       "id": "BAP_0022029",
       "name": "Nasal septum",
-      "definition": "Median partition dividing the nasal cavity; bony and cartilaginous components",
+      "definition": "Midline cartilaginous and bony partition dividing the nasal cavity",
       "parent": "BAP_0000139"
     },
     "BAP_0022030": {
@@ -5180,7 +5180,7 @@
     },
     "BAP_0022511": {
       "id": "BAP_0022511",
-      "name": "Ammon&apos;s horn (L)",
+      "name": "Ammon's horn (L)",
       "definition": "",
       "parent": "BAP_0022510"
     },
@@ -8492,7 +8492,7 @@
     },
     "BAP_0023063": {
       "id": "BAP_0023063",
-      "name": "Ammon&apos;s horn (R)",
+      "name": "Ammon's horn (R)",
       "definition": "",
       "parent": "BAP_0023062"
     },
@@ -13196,7 +13196,7 @@
     },
     "BAP_0023847": {
       "id": "BAP_0023847",
-      "name": "Barrington&apos;s nucleus (L)",
+      "name": "Barrington's nucleus (L)",
       "definition": "",
       "parent": "BAP_0023846"
     },
@@ -13514,7 +13514,7 @@
     },
     "BAP_0023900": {
       "id": "BAP_0023900",
-      "name": "Barrington&apos;s nucleus (R)",
+      "name": "Barrington's nucleus (R)",
       "definition": "",
       "parent": "BAP_0023899"
     },
@@ -17165,6 +17165,858 @@
       "name": "Cerebellum N.O.S (R)",
       "definition": "",
       "parent": "BAP_0024421"
+    },
+    "BAP_0099001": {
+      "id": "BAP_0099001",
+      "name": "A1 (L)",
+      "definition": "Left A1 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099002": {
+      "id": "BAP_0099002",
+      "name": "A1 (R)",
+      "definition": "Right A1 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099003": {
+      "id": "BAP_0099003",
+      "name": "A2 (L)",
+      "definition": "Left A2 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099004": {
+      "id": "BAP_0099004",
+      "name": "A2 (R)",
+      "definition": "Right A2 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099005": {
+      "id": "BAP_0099005",
+      "name": "A3 (L)",
+      "definition": "Left A3 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099006": {
+      "id": "BAP_0099006",
+      "name": "A3 (R)",
+      "definition": "Right A3 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099007": {
+      "id": "BAP_0099007",
+      "name": "A4 (L)",
+      "definition": "Left A4 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099008": {
+      "id": "BAP_0099008",
+      "name": "A4 (R)",
+      "definition": "Right A4 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099009": {
+      "id": "BAP_0099009",
+      "name": "A5 (L)",
+      "definition": "Left A5 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099010": {
+      "id": "BAP_0099010",
+      "name": "A5 (R)",
+      "definition": "Right A5 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099011": {
+      "id": "BAP_0099011",
+      "name": "B1 (L)",
+      "definition": "Left B1 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099012": {
+      "id": "BAP_0099012",
+      "name": "B1 (R)",
+      "definition": "Right B1 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099013": {
+      "id": "BAP_0099013",
+      "name": "B2 (L)",
+      "definition": "Left B2 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099014": {
+      "id": "BAP_0099014",
+      "name": "B2 (R)",
+      "definition": "Right B2 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099015": {
+      "id": "BAP_0099015",
+      "name": "B3 (L)",
+      "definition": "Left B3 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099016": {
+      "id": "BAP_0099016",
+      "name": "B3 (R)",
+      "definition": "Right B3 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099017": {
+      "id": "BAP_0099017",
+      "name": "B4 (L)",
+      "definition": "Left B4 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099018": {
+      "id": "BAP_0099018",
+      "name": "B4 (R)",
+      "definition": "Right B4 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099019": {
+      "id": "BAP_0099019",
+      "name": "B5 (L)",
+      "definition": "Left B5 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099020": {
+      "id": "BAP_0099020",
+      "name": "B5 (R)",
+      "definition": "Right B5 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099021": {
+      "id": "BAP_0099021",
+      "name": "C1 (L)",
+      "definition": "Left C1 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099022": {
+      "id": "BAP_0099022",
+      "name": "C1 (R)",
+      "definition": "Right C1 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099023": {
+      "id": "BAP_0099023",
+      "name": "C2 (L)",
+      "definition": "Left C2 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099024": {
+      "id": "BAP_0099024",
+      "name": "C2 (R)",
+      "definition": "Right C2 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099025": {
+      "id": "BAP_0099025",
+      "name": "C3 (L)",
+      "definition": "Left C3 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099026": {
+      "id": "BAP_0099026",
+      "name": "C3 (R)",
+      "definition": "Right C3 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099027": {
+      "id": "BAP_0099027",
+      "name": "C4 (L)",
+      "definition": "Left C4 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099028": {
+      "id": "BAP_0099028",
+      "name": "C4 (R)",
+      "definition": "Right C4 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099029": {
+      "id": "BAP_0099029",
+      "name": "C5 (L)",
+      "definition": "Left C5 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099030": {
+      "id": "BAP_0099030",
+      "name": "C5 (R)",
+      "definition": "Right C5 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099031": {
+      "id": "BAP_0099031",
+      "name": "C6 (L)",
+      "definition": "Left C6 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099032": {
+      "id": "BAP_0099032",
+      "name": "C6 (R)",
+      "definition": "Right C6 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099033": {
+      "id": "BAP_0099033",
+      "name": "C7 (L)",
+      "definition": "Left C7 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099034": {
+      "id": "BAP_0099034",
+      "name": "C7 (R)",
+      "definition": "Right C7 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099035": {
+      "id": "BAP_0099035",
+      "name": "D1 (L)",
+      "definition": "Left D1 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099036": {
+      "id": "BAP_0099036",
+      "name": "D1 (R)",
+      "definition": "Right D1 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099037": {
+      "id": "BAP_0099037",
+      "name": "D2 (L)",
+      "definition": "Left D2 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099038": {
+      "id": "BAP_0099038",
+      "name": "D2 (R)",
+      "definition": "Right D2 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099039": {
+      "id": "BAP_0099039",
+      "name": "D3 (L)",
+      "definition": "Left D3 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099040": {
+      "id": "BAP_0099040",
+      "name": "D3 (R)",
+      "definition": "Right D3 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099041": {
+      "id": "BAP_0099041",
+      "name": "D4 (L)",
+      "definition": "Left D4 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099042": {
+      "id": "BAP_0099042",
+      "name": "D4 (R)",
+      "definition": "Right D4 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099043": {
+      "id": "BAP_0099043",
+      "name": "D5 (L)",
+      "definition": "Left D5 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099044": {
+      "id": "BAP_0099044",
+      "name": "D5 (R)",
+      "definition": "Right D5 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099045": {
+      "id": "BAP_0099045",
+      "name": "D6 (L)",
+      "definition": "Left D6 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099046": {
+      "id": "BAP_0099046",
+      "name": "D6 (R)",
+      "definition": "Right D6 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099047": {
+      "id": "BAP_0099047",
+      "name": "D7 (L)",
+      "definition": "Left D7 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099048": {
+      "id": "BAP_0099048",
+      "name": "D7 (R)",
+      "definition": "Right D7 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099049": {
+      "id": "BAP_0099049",
+      "name": "E2 (L)",
+      "definition": "Left E2 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099050": {
+      "id": "BAP_0099050",
+      "name": "E2 (R)",
+      "definition": "Right E2 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099051": {
+      "id": "BAP_0099051",
+      "name": "E3 (L)",
+      "definition": "Left E3 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099052": {
+      "id": "BAP_0099052",
+      "name": "E3 (R)",
+      "definition": "Right E3 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099053": {
+      "id": "BAP_0099053",
+      "name": "E4 (L)",
+      "definition": "Left E4 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099054": {
+      "id": "BAP_0099054",
+      "name": "E4 (R)",
+      "definition": "Right E4 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099055": {
+      "id": "BAP_0099055",
+      "name": "E5 (L)",
+      "definition": "Left E5 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099056": {
+      "id": "BAP_0099056",
+      "name": "E5 (R)",
+      "definition": "Right E5 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099057": {
+      "id": "BAP_0099057",
+      "name": "E6 (L)",
+      "definition": "Left E6 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099058": {
+      "id": "BAP_0099058",
+      "name": "E6 (R)",
+      "definition": "Right E6 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099059": {
+      "id": "BAP_0099059",
+      "name": "E7 (L)",
+      "definition": "Left E7 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099060": {
+      "id": "BAP_0099060",
+      "name": "E7 (R)",
+      "definition": "Right E7 whisker",
+      "parent": "BAP_0021730"
+    },
+    "BAP_0099061": {
+      "id": "BAP_0099061",
+      "name": "Teeth",
+      "definition": "Dentition of the mouse head",
+      "parent": "BAP_0000001"
+    },
+    "BAP_0099062": {
+      "id": "BAP_0099062",
+      "name": "Upper incisor (L)",
+      "definition": "Left upper incisor tooth",
+      "parent": "BAP_0099061"
+    },
+    "BAP_0099063": {
+      "id": "BAP_0099063",
+      "name": "Upper incisor (R)",
+      "definition": "Right upper incisor tooth",
+      "parent": "BAP_0099061"
+    },
+    "BAP_0099064": {
+      "id": "BAP_0099064",
+      "name": "Lower incisor (L)",
+      "definition": "Left lower incisor tooth",
+      "parent": "BAP_0099061"
+    },
+    "BAP_0099065": {
+      "id": "BAP_0099065",
+      "name": "Lower incisor (R)",
+      "definition": "Right lower incisor tooth",
+      "parent": "BAP_0099061"
+    },
+    "BAP_0099066": {
+      "id": "BAP_0099066",
+      "name": "Upper molar 1 (L)",
+      "definition": "Left first upper molar tooth",
+      "parent": "BAP_0099061"
+    },
+    "BAP_0099067": {
+      "id": "BAP_0099067",
+      "name": "Upper molar 1 (R)",
+      "definition": "Right first upper molar tooth",
+      "parent": "BAP_0099061"
+    },
+    "BAP_0099068": {
+      "id": "BAP_0099068",
+      "name": "Upper molar 2 (L)",
+      "definition": "Left second upper molar tooth",
+      "parent": "BAP_0099061"
+    },
+    "BAP_0099069": {
+      "id": "BAP_0099069",
+      "name": "Upper molar 2 (R)",
+      "definition": "Right second upper molar tooth",
+      "parent": "BAP_0099061"
+    },
+    "BAP_0099070": {
+      "id": "BAP_0099070",
+      "name": "Upper molar 3 (L)",
+      "definition": "Left third upper molar tooth",
+      "parent": "BAP_0099061"
+    },
+    "BAP_0099071": {
+      "id": "BAP_0099071",
+      "name": "Upper molar 3 (R)",
+      "definition": "Right third upper molar tooth",
+      "parent": "BAP_0099061"
+    },
+    "BAP_0099072": {
+      "id": "BAP_0099072",
+      "name": "Lower molar 1 (L)",
+      "definition": "Left first lower molar tooth",
+      "parent": "BAP_0099061"
+    },
+    "BAP_0099073": {
+      "id": "BAP_0099073",
+      "name": "Lower molar 1 (R)",
+      "definition": "Right first lower molar tooth",
+      "parent": "BAP_0099061"
+    },
+    "BAP_0099074": {
+      "id": "BAP_0099074",
+      "name": "Lower molar 2 (L)",
+      "definition": "Left second lower molar tooth",
+      "parent": "BAP_0099061"
+    },
+    "BAP_0099075": {
+      "id": "BAP_0099075",
+      "name": "Lower molar 2 (R)",
+      "definition": "Right second lower molar tooth",
+      "parent": "BAP_0099061"
+    },
+    "BAP_0099076": {
+      "id": "BAP_0099076",
+      "name": "Lower molar 3 (L)",
+      "definition": "Left third lower molar tooth",
+      "parent": "BAP_0099061"
+    },
+    "BAP_0099077": {
+      "id": "BAP_0099077",
+      "name": "Lower molar 3 (R)",
+      "definition": "Right third lower molar tooth",
+      "parent": "BAP_0099061"
+    },
+    "BAP_0099078": {
+      "id": "BAP_0099078",
+      "name": "Ear",
+      "definition": "Ear structures of the cranium including tympanic bulla, middle ear, and inner ear",
+      "parent": "BAP_0020101"
+    },
+    "BAP_0099079": {
+      "id": "BAP_0099079",
+      "name": "Tympanic bulla (L)",
+      "definition": "Left bony bulbous expansion of the temporal bone enclosing the middle ear",
+      "parent": "BAP_0099078"
+    },
+    "BAP_0099080": {
+      "id": "BAP_0099080",
+      "name": "Tympanic bulla (R)",
+      "definition": "Right bony bulbous expansion of the temporal bone enclosing the middle ear",
+      "parent": "BAP_0099078"
+    },
+    "BAP_0099081": {
+      "id": "BAP_0099081",
+      "name": "Alisphenoid (L)",
+      "definition": "Left alisphenoid bone; forms part of the sphenoid complex and cranial base",
+      "parent": "BAP_0000138"
+    },
+    "BAP_0099082": {
+      "id": "BAP_0099082",
+      "name": "Alisphenoid (R)",
+      "definition": "Right alisphenoid bone; forms part of the sphenoid complex and cranial base",
+      "parent": "BAP_0000138"
+    },
+    "BAP_0099083": {
+      "id": "BAP_0099083",
+      "name": "Extraorbital lacrimal gland (L)",
+      "definition": "Left lacrimal gland located outside the orbit",
+      "parent": "BAP_0022024"
+    },
+    "BAP_0099084": {
+      "id": "BAP_0099084",
+      "name": "Extraorbital lacrimal gland (R)",
+      "definition": "Right lacrimal gland located outside the orbit",
+      "parent": "BAP_0022024"
+    },
+    "BAP_0099085": {
+      "id": "BAP_0099085",
+      "name": "Von Ebner's Glands (L)",
+      "definition": "Left serous glands associated with circumvallate papillae of the tongue",
+      "parent": "BAP_0020005"
+    },
+    "BAP_0099086": {
+      "id": "BAP_0099086",
+      "name": "Von Ebner's Glands (R)",
+      "definition": "Right serous glands associated with circumvallate papillae of the tongue",
+      "parent": "BAP_0020005"
+    },
+    "BAP_0099087": {
+      "id": "BAP_0099087",
+      "name": "Upper lip (L)",
+      "definition": "Left upper lip",
+      "parent": "BAP_0020007"
+    },
+    "BAP_0099088": {
+      "id": "BAP_0099088",
+      "name": "Upper lip (R)",
+      "definition": "Right upper lip",
+      "parent": "BAP_0020007"
+    },
+    "BAP_0099089": {
+      "id": "BAP_0099089",
+      "name": "Mystacial pad (L)",
+      "definition": "Left whisker pad",
+      "parent": "BAP_0020007"
+    },
+    "BAP_0099090": {
+      "id": "BAP_0099090",
+      "name": "Mystacial pad (R)",
+      "definition": "Right whisker pad",
+      "parent": "BAP_0020007"
+    },
+    "BAP_0099091": {
+      "id": "BAP_0099091",
+      "name": "Lower lip",
+      "definition": "Lower lip (midline structure)",
+      "parent": "BAP_0020007"
+    },
+    "BAP_0099092": {
+      "id": "BAP_0099092",
+      "name": "Philtrum",
+      "definition": "Midline groove between the nose and upper lip",
+      "parent": "BAP_0020007"
+    },
+    "BAP_0099093": {
+      "id": "BAP_0099093",
+      "name": "Upper eyelid (L)",
+      "definition": "Left upper eyelid",
+      "parent": "BAP_0020007"
+    },
+    "BAP_0099094": {
+      "id": "BAP_0099094",
+      "name": "Upper eyelid (R)",
+      "definition": "Right upper eyelid",
+      "parent": "BAP_0020007"
+    },
+    "BAP_0099095": {
+      "id": "BAP_0099095",
+      "name": "Lower eyelid (L)",
+      "definition": "Left lower eyelid",
+      "parent": "BAP_0020007"
+    },
+    "BAP_0099096": {
+      "id": "BAP_0099096",
+      "name": "Lower eyelid (R)",
+      "definition": "Right lower eyelid",
+      "parent": "BAP_0020007"
+    },
+    "BAP_0099097": {
+      "id": "BAP_0099097",
+      "name": "Nasolabialis profundus (L)",
+      "definition": "Left deep nasolabial muscle of facial expression",
+      "parent": "BAP_0022022"
+    },
+    "BAP_0099098": {
+      "id": "BAP_0099098",
+      "name": "Nasolabialis profundus (R)",
+      "definition": "Right deep nasolabial muscle of facial expression",
+      "parent": "BAP_0022022"
+    },
+    "BAP_0099099": {
+      "id": "BAP_0099099",
+      "name": "Nasolabialis (L)",
+      "definition": "Left nasolabial muscle of facial expression",
+      "parent": "BAP_0022022"
+    },
+    "BAP_0099100": {
+      "id": "BAP_0099100",
+      "name": "Nasolabialis (R)",
+      "definition": "Right nasolabial muscle of facial expression",
+      "parent": "BAP_0022022"
+    },
+    "BAP_0099101": {
+      "id": "BAP_0099101",
+      "name": "Maxillolabialis (L)",
+      "definition": "Left maxillolabial muscle of facial expression",
+      "parent": "BAP_0022022"
+    },
+    "BAP_0099102": {
+      "id": "BAP_0099102",
+      "name": "Maxillolabialis (R)",
+      "definition": "Right maxillolabial muscle of facial expression",
+      "parent": "BAP_0022022"
+    },
+    "BAP_0099103": {
+      "id": "BAP_0099103",
+      "name": "Oblique intrinsic muscle (whisker) (L)",
+      "definition": "Left oblique intrinsic whisker follicle muscle",
+      "parent": "BAP_0022022"
+    },
+    "BAP_0099104": {
+      "id": "BAP_0099104",
+      "name": "Oblique intrinsic muscle (whisker) (R)",
+      "definition": "Right oblique intrinsic whisker follicle muscle",
+      "parent": "BAP_0022022"
+    },
+    "BAP_0099105": {
+      "id": "BAP_0099105",
+      "name": "Transversus nasi (L)",
+      "definition": "Left transverse nasal muscle",
+      "parent": "BAP_0022022"
+    },
+    "BAP_0099106": {
+      "id": "BAP_0099106",
+      "name": "Transversus nasi (R)",
+      "definition": "Right transverse nasal muscle",
+      "parent": "BAP_0022022"
+    },
+    "BAP_0099107": {
+      "id": "BAP_0099107",
+      "name": "Lymph nodes (L)",
+      "definition": "Left head and neck lymph nodes",
+      "parent": "BAP_0021720"
+    },
+    "BAP_0099108": {
+      "id": "BAP_0099108",
+      "name": "Nasal-Associated Lymphoid Tissue (L)",
+      "definition": "Left nasal-associated lymphoid tissue (NALT)",
+      "parent": "BAP_0021720"
+    },
+    "BAP_0099109": {
+      "id": "BAP_0099109",
+      "name": "Lymph nodes (R)",
+      "definition": "Right head and neck lymph nodes",
+      "parent": "BAP_0021721"
+    },
+    "BAP_0099110": {
+      "id": "BAP_0099110",
+      "name": "Nasal-Associated Lymphoid Tissue (R)",
+      "definition": "Right nasal-associated lymphoid tissue (NALT)",
+      "parent": "BAP_0021721"
+    },
+    "BAP_0099111": {
+      "id": "BAP_0099111",
+      "name": "Neck muscles (spinal nerve innervated)",
+      "definition": "Neck muscles innervated by spinal nerves",
+      "parent": "BAP_0021101"
+    },
+    "BAP_0099112": {
+      "id": "BAP_0099112",
+      "name": "Epaxial Neck muscles (dorsal ramus innervated)",
+      "definition": "Deep back muscles of the neck innervated by dorsal rami of spinal nerves",
+      "parent": "BAP_0099111"
+    },
+    "BAP_0099113": {
+      "id": "BAP_0099113",
+      "name": "Hypaxial Neck muscles (ventral ramus innervated)",
+      "definition": "Ventral neck muscles innervated by ventral rami of spinal nerves",
+      "parent": "BAP_0099111"
+    },
+    "BAP_0099114": {
+      "id": "BAP_0099114",
+      "name": "Neck muscles (cranial nerve innervated)",
+      "definition": "Neck muscles innervated by cranial nerves",
+      "parent": "BAP_0021101"
+    },
+    "BAP_0099115": {
+      "id": "BAP_0099115",
+      "name": "Semispinalis (L)",
+      "definition": "Left semispinalis muscle of the neck",
+      "parent": "BAP_0099112"
+    },
+    "BAP_0099116": {
+      "id": "BAP_0099116",
+      "name": "Semispinalis (R)",
+      "definition": "Right semispinalis muscle of the neck",
+      "parent": "BAP_0099112"
+    },
+    "BAP_0099117": {
+      "id": "BAP_0099117",
+      "name": "Splenius (L)",
+      "definition": "Left splenius muscle group",
+      "parent": "BAP_0099112"
+    },
+    "BAP_0099118": {
+      "id": "BAP_0099118",
+      "name": "Splenius (R)",
+      "definition": "Right splenius muscle group",
+      "parent": "BAP_0099112"
+    },
+    "BAP_0099119": {
+      "id": "BAP_0099119",
+      "name": "Splenius capitis (L)",
+      "definition": "Left splenius capitis muscle; extends and rotates head",
+      "parent": "BAP_0099117"
+    },
+    "BAP_0099120": {
+      "id": "BAP_0099120",
+      "name": "Splenius capitis (R)",
+      "definition": "Right splenius capitis muscle; extends and rotates head",
+      "parent": "BAP_0099118"
+    },
+    "BAP_0099121": {
+      "id": "BAP_0099121",
+      "name": "Splenius cervicis (L)",
+      "definition": "Left splenius cervicis muscle; extends and rotates neck",
+      "parent": "BAP_0099117"
+    },
+    "BAP_0099122": {
+      "id": "BAP_0099122",
+      "name": "Splenius cervicis (R)",
+      "definition": "Right splenius cervicis muscle; extends and rotates neck",
+      "parent": "BAP_0099118"
+    },
+    "BAP_0099123": {
+      "id": "BAP_0099123",
+      "name": "Transversospinalis muscles (L)",
+      "definition": "Left transversospinalis muscle group of the neck",
+      "parent": "BAP_0099112"
+    },
+    "BAP_0099124": {
+      "id": "BAP_0099124",
+      "name": "Transversospinalis muscles (R)",
+      "definition": "Right transversospinalis muscle group of the neck",
+      "parent": "BAP_0099112"
+    },
+    "BAP_0099125": {
+      "id": "BAP_0099125",
+      "name": "Scalenus dorsalis (L)",
+      "definition": "Left dorsal scalene muscle",
+      "parent": "BAP_0099113"
+    },
+    "BAP_0099126": {
+      "id": "BAP_0099126",
+      "name": "Scalenus dorsalis (R)",
+      "definition": "Right dorsal scalene muscle",
+      "parent": "BAP_0099113"
+    },
+    "BAP_0099127": {
+      "id": "BAP_0099127",
+      "name": "Scalenus medius (L)",
+      "definition": "Left middle scalene muscle",
+      "parent": "BAP_0099113"
+    },
+    "BAP_0099128": {
+      "id": "BAP_0099128",
+      "name": "Scalenus medius (R)",
+      "definition": "Right middle scalene muscle",
+      "parent": "BAP_0099113"
+    },
+    "BAP_0099129": {
+      "id": "BAP_0099129",
+      "name": "Scalenus ventralis (L)",
+      "definition": "Left ventral scalene muscle",
+      "parent": "BAP_0099113"
+    },
+    "BAP_0099130": {
+      "id": "BAP_0099130",
+      "name": "Scalenus ventralis (R)",
+      "definition": "Right ventral scalene muscle",
+      "parent": "BAP_0099113"
+    },
+    "BAP_0099131": {
+      "id": "BAP_0099131",
+      "name": "Longus colli (L)",
+      "definition": "Left prevertebral muscle; flexes neck",
+      "parent": "BAP_0099113"
+    },
+    "BAP_0099132": {
+      "id": "BAP_0099132",
+      "name": "Longus colli (R)",
+      "definition": "Right prevertebral muscle; flexes neck",
+      "parent": "BAP_0099113"
+    },
+    "BAP_0099133": {
+      "id": "BAP_0099133",
+      "name": "Longus capitis (L)",
+      "definition": "Left prevertebral muscle; flexes head",
+      "parent": "BAP_0099113"
+    },
+    "BAP_0099134": {
+      "id": "BAP_0099134",
+      "name": "Longus capitis (R)",
+      "definition": "Right prevertebral muscle; flexes head",
+      "parent": "BAP_0099113"
+    },
+    "BAP_0099135": {
+      "id": "BAP_0099135",
+      "name": "Esophagus muscles",
+      "definition": "Muscles of the esophagus in the neck region",
+      "parent": "BAP_0099113"
+    },
+    "BAP_0099136": {
+      "id": "BAP_0099136",
+      "name": "C1",
+      "definition": "First cervical vertebra (atlas)",
+      "parent": "BAP_0000132"
+    },
+    "BAP_0099137": {
+      "id": "BAP_0099137",
+      "name": "C2",
+      "definition": "Second cervical vertebra (axis)",
+      "parent": "BAP_0000132"
+    },
+    "BAP_0099138": {
+      "id": "BAP_0099138",
+      "name": "C3",
+      "definition": "Third cervical vertebra",
+      "parent": "BAP_0000132"
+    },
+    "BAP_0099139": {
+      "id": "BAP_0099139",
+      "name": "C4",
+      "definition": "Fourth cervical vertebra",
+      "parent": "BAP_0000132"
+    },
+    "BAP_0099140": {
+      "id": "BAP_0099140",
+      "name": "C5",
+      "definition": "Fifth cervical vertebra",
+      "parent": "BAP_0000132"
+    },
+    "BAP_0099141": {
+      "id": "BAP_0099141",
+      "name": "C6",
+      "definition": "Sixth cervical vertebra",
+      "parent": "BAP_0000132"
+    },
+    "BAP_0099142": {
+      "id": "BAP_0099142",
+      "name": "C7",
+      "definition": "Seventh cervical vertebra",
+      "parent": "BAP_0000132"
     }
   },
   "tree": [
@@ -17309,37 +18161,47 @@
                 {
                   "id": "BAP_0022024",
                   "name": "Lacrimal gland",
-                  "definition": "Tear-producing glands of the orbit",
+                  "definition": "Parent group for lacrimal glands",
                   "children": [
                     {
-                      "id": "BAP_0021998",
+                      "id": "BAP_0099083",
                       "name": "Extraorbital lacrimal gland (L)",
-                      "definition": "Left extraorbital portion of the lacrimal gland that produces tears"
+                      "definition": "Left lacrimal gland located outside the orbit"
                     },
                     {
-                      "id": "BAP_0021999",
+                      "id": "BAP_0099084",
                       "name": "Extraorbital lacrimal gland (R)",
-                      "definition": "Right extraorbital portion of the lacrimal gland that produces tears"
+                      "definition": "Right lacrimal gland located outside the orbit"
                     },
                     {
                       "id": "BAP_0022027",
                       "name": "Harderian gland (L)",
-                      "definition": "Left Harderian gland; orbital gland that lubricates the nictitating membrane"
+                      "definition": "Left gland located behind the eye; secretes lipids"
                     },
                     {
                       "id": "BAP_0022028",
                       "name": "Harderian gland (R)",
-                      "definition": "Right Harderian gland; orbital gland that lubricates the nictitating membrane"
+                      "definition": "Right gland located behind the eye; secretes lipids"
                     },
                     {
                       "id": "BAP_0022025",
                       "name": "Intraorbital lacrimal gland (L)",
-                      "definition": "Left intraorbital portion of the lacrimal gland within the orbit"
+                      "definition": "Left lacrimal gland located within the orbit"
                     },
                     {
                       "id": "BAP_0022026",
                       "name": "Intraorbital lacrimal gland (R)",
-                      "definition": "Right intraorbital portion of the lacrimal gland within the orbit"
+                      "definition": "Right lacrimal gland located within the orbit"
+                    },
+                    {
+                      "id": "BAP_0021998",
+                      "name": "Lacrimal gland (L)",
+                      "definition": "Left gland that produces tears"
+                    },
+                    {
+                      "id": "BAP_0021999",
+                      "name": "Lacrimal gland (R)",
+                      "definition": "Right gland that produces tears"
                     }
                   ]
                 },
@@ -17394,6 +18256,16 @@
                   "id": "BAP_0021997",
                   "name": "Sebaceous glands",
                   "definition": "Glands that secrete sebum for skin lubrication"
+                },
+                {
+                  "id": "BAP_0099085",
+                  "name": "Von Ebner's Glands (L)",
+                  "definition": "Left serous glands associated with circumvallate papillae of the tongue"
+                },
+                {
+                  "id": "BAP_0099086",
+                  "name": "Von Ebner's Glands (R)",
+                  "definition": "Right serous glands associated with circumvallate papillae of the tongue"
                 }
               ]
             },
@@ -17430,14 +18302,370 @@
                   "definition": "Right skin covering the head"
                 },
                 {
-                  "id": "BAP_0021730",
-                  "name": "Whiskers (L)",
-                  "definition": "Left vibrissae - tactile hairs"
+                  "id": "BAP_0099095",
+                  "name": "Lower eyelid (L)",
+                  "definition": "Left lower eyelid"
                 },
                 {
-                  "id": "BAP_0021731",
-                  "name": "Whiskers (R)",
-                  "definition": "Right vibrissae - tactile hairs"
+                  "id": "BAP_0099096",
+                  "name": "Lower eyelid (R)",
+                  "definition": "Right lower eyelid"
+                },
+                {
+                  "id": "BAP_0099091",
+                  "name": "Lower lip",
+                  "definition": "Lower lip (midline structure)"
+                },
+                {
+                  "id": "BAP_0099089",
+                  "name": "Mystacial pad (L)",
+                  "definition": "Left whisker pad",
+                  "children": [
+                    {
+                      "id": "BAP_0021730",
+                      "name": "Whiskers (L)",
+                      "definition": "Left vibrissae - tactile hairs",
+                      "children": [
+                        {
+                          "id": "BAP_0099001",
+                          "name": "A1 (L)",
+                          "definition": "Left A1 whisker"
+                        },
+                        {
+                          "id": "BAP_0099002",
+                          "name": "A1 (R)",
+                          "definition": "Right A1 whisker"
+                        },
+                        {
+                          "id": "BAP_0099003",
+                          "name": "A2 (L)",
+                          "definition": "Left A2 whisker"
+                        },
+                        {
+                          "id": "BAP_0099004",
+                          "name": "A2 (R)",
+                          "definition": "Right A2 whisker"
+                        },
+                        {
+                          "id": "BAP_0099005",
+                          "name": "A3 (L)",
+                          "definition": "Left A3 whisker"
+                        },
+                        {
+                          "id": "BAP_0099006",
+                          "name": "A3 (R)",
+                          "definition": "Right A3 whisker"
+                        },
+                        {
+                          "id": "BAP_0099007",
+                          "name": "A4 (L)",
+                          "definition": "Left A4 whisker"
+                        },
+                        {
+                          "id": "BAP_0099008",
+                          "name": "A4 (R)",
+                          "definition": "Right A4 whisker"
+                        },
+                        {
+                          "id": "BAP_0099009",
+                          "name": "A5 (L)",
+                          "definition": "Left A5 whisker"
+                        },
+                        {
+                          "id": "BAP_0099010",
+                          "name": "A5 (R)",
+                          "definition": "Right A5 whisker"
+                        },
+                        {
+                          "id": "BAP_0099011",
+                          "name": "B1 (L)",
+                          "definition": "Left B1 whisker"
+                        },
+                        {
+                          "id": "BAP_0099012",
+                          "name": "B1 (R)",
+                          "definition": "Right B1 whisker"
+                        },
+                        {
+                          "id": "BAP_0099013",
+                          "name": "B2 (L)",
+                          "definition": "Left B2 whisker"
+                        },
+                        {
+                          "id": "BAP_0099014",
+                          "name": "B2 (R)",
+                          "definition": "Right B2 whisker"
+                        },
+                        {
+                          "id": "BAP_0099015",
+                          "name": "B3 (L)",
+                          "definition": "Left B3 whisker"
+                        },
+                        {
+                          "id": "BAP_0099016",
+                          "name": "B3 (R)",
+                          "definition": "Right B3 whisker"
+                        },
+                        {
+                          "id": "BAP_0099017",
+                          "name": "B4 (L)",
+                          "definition": "Left B4 whisker"
+                        },
+                        {
+                          "id": "BAP_0099018",
+                          "name": "B4 (R)",
+                          "definition": "Right B4 whisker"
+                        },
+                        {
+                          "id": "BAP_0099019",
+                          "name": "B5 (L)",
+                          "definition": "Left B5 whisker"
+                        },
+                        {
+                          "id": "BAP_0099020",
+                          "name": "B5 (R)",
+                          "definition": "Right B5 whisker"
+                        },
+                        {
+                          "id": "BAP_0099021",
+                          "name": "C1 (L)",
+                          "definition": "Left C1 whisker"
+                        },
+                        {
+                          "id": "BAP_0099022",
+                          "name": "C1 (R)",
+                          "definition": "Right C1 whisker"
+                        },
+                        {
+                          "id": "BAP_0099023",
+                          "name": "C2 (L)",
+                          "definition": "Left C2 whisker"
+                        },
+                        {
+                          "id": "BAP_0099024",
+                          "name": "C2 (R)",
+                          "definition": "Right C2 whisker"
+                        },
+                        {
+                          "id": "BAP_0099025",
+                          "name": "C3 (L)",
+                          "definition": "Left C3 whisker"
+                        },
+                        {
+                          "id": "BAP_0099026",
+                          "name": "C3 (R)",
+                          "definition": "Right C3 whisker"
+                        },
+                        {
+                          "id": "BAP_0099027",
+                          "name": "C4 (L)",
+                          "definition": "Left C4 whisker"
+                        },
+                        {
+                          "id": "BAP_0099028",
+                          "name": "C4 (R)",
+                          "definition": "Right C4 whisker"
+                        },
+                        {
+                          "id": "BAP_0099029",
+                          "name": "C5 (L)",
+                          "definition": "Left C5 whisker"
+                        },
+                        {
+                          "id": "BAP_0099030",
+                          "name": "C5 (R)",
+                          "definition": "Right C5 whisker"
+                        },
+                        {
+                          "id": "BAP_0099031",
+                          "name": "C6 (L)",
+                          "definition": "Left C6 whisker"
+                        },
+                        {
+                          "id": "BAP_0099032",
+                          "name": "C6 (R)",
+                          "definition": "Right C6 whisker"
+                        },
+                        {
+                          "id": "BAP_0099033",
+                          "name": "C7 (L)",
+                          "definition": "Left C7 whisker"
+                        },
+                        {
+                          "id": "BAP_0099034",
+                          "name": "C7 (R)",
+                          "definition": "Right C7 whisker"
+                        },
+                        {
+                          "id": "BAP_0099035",
+                          "name": "D1 (L)",
+                          "definition": "Left D1 whisker"
+                        },
+                        {
+                          "id": "BAP_0099036",
+                          "name": "D1 (R)",
+                          "definition": "Right D1 whisker"
+                        },
+                        {
+                          "id": "BAP_0099037",
+                          "name": "D2 (L)",
+                          "definition": "Left D2 whisker"
+                        },
+                        {
+                          "id": "BAP_0099038",
+                          "name": "D2 (R)",
+                          "definition": "Right D2 whisker"
+                        },
+                        {
+                          "id": "BAP_0099039",
+                          "name": "D3 (L)",
+                          "definition": "Left D3 whisker"
+                        },
+                        {
+                          "id": "BAP_0099040",
+                          "name": "D3 (R)",
+                          "definition": "Right D3 whisker"
+                        },
+                        {
+                          "id": "BAP_0099041",
+                          "name": "D4 (L)",
+                          "definition": "Left D4 whisker"
+                        },
+                        {
+                          "id": "BAP_0099042",
+                          "name": "D4 (R)",
+                          "definition": "Right D4 whisker"
+                        },
+                        {
+                          "id": "BAP_0099043",
+                          "name": "D5 (L)",
+                          "definition": "Left D5 whisker"
+                        },
+                        {
+                          "id": "BAP_0099044",
+                          "name": "D5 (R)",
+                          "definition": "Right D5 whisker"
+                        },
+                        {
+                          "id": "BAP_0099045",
+                          "name": "D6 (L)",
+                          "definition": "Left D6 whisker"
+                        },
+                        {
+                          "id": "BAP_0099046",
+                          "name": "D6 (R)",
+                          "definition": "Right D6 whisker"
+                        },
+                        {
+                          "id": "BAP_0099047",
+                          "name": "D7 (L)",
+                          "definition": "Left D7 whisker"
+                        },
+                        {
+                          "id": "BAP_0099048",
+                          "name": "D7 (R)",
+                          "definition": "Right D7 whisker"
+                        },
+                        {
+                          "id": "BAP_0099049",
+                          "name": "E2 (L)",
+                          "definition": "Left E2 whisker"
+                        },
+                        {
+                          "id": "BAP_0099050",
+                          "name": "E2 (R)",
+                          "definition": "Right E2 whisker"
+                        },
+                        {
+                          "id": "BAP_0099051",
+                          "name": "E3 (L)",
+                          "definition": "Left E3 whisker"
+                        },
+                        {
+                          "id": "BAP_0099052",
+                          "name": "E3 (R)",
+                          "definition": "Right E3 whisker"
+                        },
+                        {
+                          "id": "BAP_0099053",
+                          "name": "E4 (L)",
+                          "definition": "Left E4 whisker"
+                        },
+                        {
+                          "id": "BAP_0099054",
+                          "name": "E4 (R)",
+                          "definition": "Right E4 whisker"
+                        },
+                        {
+                          "id": "BAP_0099055",
+                          "name": "E5 (L)",
+                          "definition": "Left E5 whisker"
+                        },
+                        {
+                          "id": "BAP_0099056",
+                          "name": "E5 (R)",
+                          "definition": "Right E5 whisker"
+                        },
+                        {
+                          "id": "BAP_0099057",
+                          "name": "E6 (L)",
+                          "definition": "Left E6 whisker"
+                        },
+                        {
+                          "id": "BAP_0099058",
+                          "name": "E6 (R)",
+                          "definition": "Right E6 whisker"
+                        },
+                        {
+                          "id": "BAP_0099059",
+                          "name": "E7 (L)",
+                          "definition": "Left E7 whisker"
+                        },
+                        {
+                          "id": "BAP_0099060",
+                          "name": "E7 (R)",
+                          "definition": "Right E7 whisker"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "BAP_0099090",
+                  "name": "Mystacial pad (R)",
+                  "definition": "Right whisker pad",
+                  "children": [
+                    {
+                      "id": "BAP_0021731",
+                      "name": "Whiskers (R)",
+                      "definition": "Right vibrissae - tactile hairs"
+                    }
+                  ]
+                },
+                {
+                  "id": "BAP_0099092",
+                  "name": "Philtrum",
+                  "definition": "Midline groove between the nose and upper lip"
+                },
+                {
+                  "id": "BAP_0099093",
+                  "name": "Upper eyelid (L)",
+                  "definition": "Left upper eyelid"
+                },
+                {
+                  "id": "BAP_0099094",
+                  "name": "Upper eyelid (R)",
+                  "definition": "Right upper eyelid"
+                },
+                {
+                  "id": "BAP_0099087",
+                  "name": "Upper lip (L)",
+                  "definition": "Left upper lip"
+                },
+                {
+                  "id": "BAP_0099088",
+                  "name": "Upper lip (R)",
+                  "definition": "Right upper lip"
                 }
               ]
             },
@@ -17762,6 +18990,16 @@
                           "definition": "Right muscle connecting mandible to ear"
                         },
                         {
+                          "id": "BAP_0099101",
+                          "name": "Maxillolabialis (L)",
+                          "definition": "Left maxillolabial muscle of facial expression"
+                        },
+                        {
+                          "id": "BAP_0099102",
+                          "name": "Maxillolabialis (R)",
+                          "definition": "Right maxillolabial muscle of facial expression"
+                        },
+                        {
                           "id": "BAP_0021814",
                           "name": "Mylohyoideus (L)",
                           "definition": "Left muscle that elevates floor of oral cavity"
@@ -17780,6 +19018,36 @@
                           "id": "BAP_0021859",
                           "name": "Nasalis (R)",
                           "definition": "Right nasal muscle; compresses and dilates nostrils"
+                        },
+                        {
+                          "id": "BAP_0099099",
+                          "name": "Nasolabialis (L)",
+                          "definition": "Left nasolabial muscle of facial expression"
+                        },
+                        {
+                          "id": "BAP_0099100",
+                          "name": "Nasolabialis (R)",
+                          "definition": "Right nasolabial muscle of facial expression"
+                        },
+                        {
+                          "id": "BAP_0099097",
+                          "name": "Nasolabialis profundus (L)",
+                          "definition": "Left deep nasolabial muscle of facial expression"
+                        },
+                        {
+                          "id": "BAP_0099098",
+                          "name": "Nasolabialis profundus (R)",
+                          "definition": "Right deep nasolabial muscle of facial expression"
+                        },
+                        {
+                          "id": "BAP_0099103",
+                          "name": "Oblique intrinsic muscle (whisker) (L)",
+                          "definition": "Left oblique intrinsic whisker follicle muscle"
+                        },
+                        {
+                          "id": "BAP_0099104",
+                          "name": "Oblique intrinsic muscle (whisker) (R)",
+                          "definition": "Right oblique intrinsic whisker follicle muscle"
                         },
                         {
                           "id": "BAP_0021832",
@@ -17857,6 +19125,16 @@
                           "definition": "Right superficial cervical sphincter muscle"
                         },
                         {
+                          "id": "BAP_0021904",
+                          "name": "Sternofacialis left (L)",
+                          "definition": "Left sternofacial muscle"
+                        },
+                        {
+                          "id": "BAP_0021905",
+                          "name": "Sternofacialis left (R)",
+                          "definition": "Right sternofacial muscle"
+                        },
+                        {
                           "id": "BAP_0021820",
                           "name": "Stylohyoideus (L)",
                           "definition": "Left suprahyoid muscle; elevates and retracts the hyoid bone"
@@ -17875,6 +19153,16 @@
                           "id": "BAP_0021887",
                           "name": "Stylopharyngeus (R)",
                           "definition": "Right muscle that elevates pharynx and larynx"
+                        },
+                        {
+                          "id": "BAP_0099105",
+                          "name": "Transversus nasi (L)",
+                          "definition": "Left transverse nasal muscle"
+                        },
+                        {
+                          "id": "BAP_0099106",
+                          "name": "Transversus nasi (R)",
+                          "definition": "Right transverse nasal muscle"
                         },
                         {
                           "id": "BAP_0021842",
@@ -17990,16 +19278,6 @@
                       ]
                     },
                     {
-                      "id": "BAP_0021932",
-                      "name": "Sternohyoideus (L)",
-                      "definition": "Left infrahyoid muscle; depresses hyoid bone after swallowing"
-                    },
-                    {
-                      "id": "BAP_0021933",
-                      "name": "Sternohyoideus (R)",
-                      "definition": "Right infrahyoid muscle; depresses hyoid bone after swallowing"
-                    },
-                    {
                       "id": "BAP_0000102",
                       "name": "Tongue muscles",
                       "definition": "Muscular organ in the mouth",
@@ -18108,6 +19386,23 @@
                   "definition": "Bony skull structure",
                   "children": [
                     {
+                      "id": "BAP_0099078",
+                      "name": "Ear",
+                      "definition": "Ear structures of the cranium including tympanic bulla, middle ear, and inner ear",
+                      "children": [
+                        {
+                          "id": "BAP_0099079",
+                          "name": "Tympanic bulla (L)",
+                          "definition": "Left bony bulbous expansion of the temporal bone enclosing the middle ear"
+                        },
+                        {
+                          "id": "BAP_0099080",
+                          "name": "Tympanic bulla (R)",
+                          "definition": "Right bony bulbous expansion of the temporal bone enclosing the middle ear"
+                        }
+                      ]
+                    },
+                    {
                       "id": "BAP_0022013",
                       "name": "Inner Ear",
                       "definition": "Sensory organ containing cochlea, semicircular canals, and vestibule",
@@ -18186,6 +19481,16 @@
                       "name": "Neurocranium",
                       "definition": "Bones enclosing the brain",
                       "children": [
+                        {
+                          "id": "BAP_0099081",
+                          "name": "Alisphenoid (L)",
+                          "definition": "Left alisphenoid bone; forms part of the sphenoid complex and cranial base"
+                        },
+                        {
+                          "id": "BAP_0099082",
+                          "name": "Alisphenoid (R)",
+                          "definition": "Right alisphenoid bone; forms part of the sphenoid complex and cranial base"
+                        },
                         {
                           "id": "BAP_0021752",
                           "name": "Basisphenoid (L)",
@@ -18323,7 +19628,7 @@
                         {
                           "id": "BAP_0022029",
                           "name": "Nasal septum",
-                          "definition": "Median partition dividing the nasal cavity; bony and cartilaginous components"
+                          "definition": "Midline cartilaginous and bony partition dividing the nasal cavity"
                         },
                         {
                           "id": "BAP_0021770",
@@ -21539,7 +22844,7 @@
                                             },
                                             {
                                               "id": "BAP_0023847",
-                                              "name": "Barrington&apos;s nucleus (L)",
+                                              "name": "Barrington's nucleus (L)",
                                               "definition": null
                                             },
                                             {
@@ -21824,7 +23129,7 @@
                                             },
                                             {
                                               "id": "BAP_0023900",
-                                              "name": "Barrington&apos;s nucleus (R)",
+                                              "name": "Barrington's nucleus (R)",
                                               "definition": null
                                             },
                                             {
@@ -24907,7 +26212,7 @@
                                                   "children": [
                                                     {
                                                       "id": "BAP_0022511",
-                                                      "name": "Ammon&apos;s horn (L)",
+                                                      "name": "Ammon's horn (L)",
                                                       "definition": null,
                                                       "children": [
                                                         {
@@ -27869,7 +29174,7 @@
                                                   "children": [
                                                     {
                                                       "id": "BAP_0023063",
-                                                      "name": "Ammon&apos;s horn (R)",
+                                                      "name": "Ammon's horn (R)",
                                                       "definition": null,
                                                       "children": [
                                                         {
@@ -32058,12 +33363,36 @@
                 {
                   "id": "BAP_0021720",
                   "name": "Head lymphatics (L)",
-                  "definition": "Left lymphatic structures of the head"
+                  "definition": "Left lymphatic structures of the head",
+                  "children": [
+                    {
+                      "id": "BAP_0099107",
+                      "name": "Lymph nodes (L)",
+                      "definition": "Left head and neck lymph nodes"
+                    },
+                    {
+                      "id": "BAP_0099108",
+                      "name": "Nasal-Associated Lymphoid Tissue (L)",
+                      "definition": "Left nasal-associated lymphoid tissue (NALT)"
+                    }
+                  ]
                 },
                 {
                   "id": "BAP_0021721",
                   "name": "Head lymphatics (R)",
-                  "definition": "Right lymphatic structures of the head"
+                  "definition": "Right lymphatic structures of the head",
+                  "children": [
+                    {
+                      "id": "BAP_0099109",
+                      "name": "Lymph nodes (R)",
+                      "definition": "Right head and neck lymph nodes"
+                    },
+                    {
+                      "id": "BAP_0099110",
+                      "name": "Nasal-Associated Lymphoid Tissue (R)",
+                      "definition": "Right nasal-associated lymphoid tissue (NALT)"
+                    }
+                  ]
                 },
                 {
                   "id": "BAP_0021718",
@@ -32133,6 +33462,93 @@
                   "definition": "Right somatosensory cortical structures for whisker sensation"
                 }
               ]
+            },
+            {
+              "id": "BAP_0099061",
+              "name": "Teeth",
+              "definition": "Dentition of the mouse head",
+              "children": [
+                {
+                  "id": "BAP_0099064",
+                  "name": "Lower incisor (L)",
+                  "definition": "Left lower incisor tooth"
+                },
+                {
+                  "id": "BAP_0099065",
+                  "name": "Lower incisor (R)",
+                  "definition": "Right lower incisor tooth"
+                },
+                {
+                  "id": "BAP_0099072",
+                  "name": "Lower molar 1 (L)",
+                  "definition": "Left first lower molar tooth"
+                },
+                {
+                  "id": "BAP_0099073",
+                  "name": "Lower molar 1 (R)",
+                  "definition": "Right first lower molar tooth"
+                },
+                {
+                  "id": "BAP_0099074",
+                  "name": "Lower molar 2 (L)",
+                  "definition": "Left second lower molar tooth"
+                },
+                {
+                  "id": "BAP_0099075",
+                  "name": "Lower molar 2 (R)",
+                  "definition": "Right second lower molar tooth"
+                },
+                {
+                  "id": "BAP_0099076",
+                  "name": "Lower molar 3 (L)",
+                  "definition": "Left third lower molar tooth"
+                },
+                {
+                  "id": "BAP_0099077",
+                  "name": "Lower molar 3 (R)",
+                  "definition": "Right third lower molar tooth"
+                },
+                {
+                  "id": "BAP_0099062",
+                  "name": "Upper incisor (L)",
+                  "definition": "Left upper incisor tooth"
+                },
+                {
+                  "id": "BAP_0099063",
+                  "name": "Upper incisor (R)",
+                  "definition": "Right upper incisor tooth"
+                },
+                {
+                  "id": "BAP_0099066",
+                  "name": "Upper molar 1 (L)",
+                  "definition": "Left first upper molar tooth"
+                },
+                {
+                  "id": "BAP_0099067",
+                  "name": "Upper molar 1 (R)",
+                  "definition": "Right first upper molar tooth"
+                },
+                {
+                  "id": "BAP_0099068",
+                  "name": "Upper molar 2 (L)",
+                  "definition": "Left second upper molar tooth"
+                },
+                {
+                  "id": "BAP_0099069",
+                  "name": "Upper molar 2 (R)",
+                  "definition": "Right second upper molar tooth"
+                },
+                {
+                  "id": "BAP_0099070",
+                  "name": "Upper molar 3 (L)",
+                  "definition": "Left third upper molar tooth"
+                },
+                {
+                  "id": "BAP_0099071",
+                  "name": "Upper molar 3 (R)",
+                  "definition": "Right third upper molar tooth"
+                }
+              ]
             }
           ]
         },
@@ -32160,16 +33576,6 @@
                       "id": "BAP_000083",
                       "name": "Esophagus",
                       "definition": null
-                    },
-                    {
-                      "id": "BAP_0021904",
-                      "name": "Sternofacialis left (L)",
-                      "definition": "Left sternofacial muscle"
-                    },
-                    {
-                      "id": "BAP_0021905",
-                      "name": "Sternofacialis left (R)",
-                      "definition": "Right sternofacial muscle"
                     }
                   ]
                 }
@@ -32215,253 +33621,400 @@
                   "definition": "Muscles of the neck region",
                   "children": [
                     {
-                      "id": "BAP_0021922",
-                      "name": "Cleidomastoideus (L)",
-                      "definition": "Left muscle connecting clavicle to mastoid process"
-                    },
-                    {
-                      "id": "BAP_0021923",
-                      "name": "Cleidomastoideus (R)",
-                      "definition": "Right muscle connecting clavicle to mastoid process"
-                    },
-                    {
-                      "id": "BAP_0021920",
-                      "name": "Cleidooccipitalis (L)",
-                      "definition": "Left muscle connecting clavicle to occiput"
-                    },
-                    {
-                      "id": "BAP_0021921",
-                      "name": "Cleidooccipitalis (R)",
-                      "definition": "Right muscle connecting clavicle to occiput"
-                    },
-                    {
-                      "id": "BAP_0021926",
-                      "name": "Cricothyroideus (L)",
-                      "definition": "Left muscle connecting cricoid to thyroid cartilage; tenses vocal folds"
-                    },
-                    {
-                      "id": "BAP_0021927",
-                      "name": "Cricothyroideus (R)",
-                      "definition": "Right muscle connecting cricoid to thyroid cartilage; tenses vocal folds"
-                    },
-                    {
-                      "id": "BAP_0021928",
-                      "name": "Jugulohyoideus (L)",
-                      "definition": "Left muscle connecting jugular region to hyoid bone"
-                    },
-                    {
-                      "id": "BAP_0021929",
-                      "name": "Jugulohyoideus (R)",
-                      "definition": "Right muscle connecting jugular region to hyoid bone"
-                    },
-                    {
-                      "id": "BAP_0021703",
-                      "name": "Laryngeal muscles",
-                      "definition": "Laryngeal muscles",
+                      "id": "BAP_0099114",
+                      "name": "Neck muscles (cranial nerve innervated)",
+                      "definition": "Neck muscles innervated by cranial nerves",
                       "children": [
                         {
-                          "id": "BAP_0021914",
-                          "name": "Arytenoideus (L)",
-                          "definition": "Left arytenoid muscle; adducts arytenoid cartilages"
+                          "id": "BAP_0021922",
+                          "name": "Cleidomastoideus (L)",
+                          "definition": "Left muscle connecting clavicle to mastoid process"
                         },
                         {
-                          "id": "BAP_0021915",
-                          "name": "Arytenoideus (R)",
-                          "definition": "Right arytenoid muscle; adducts arytenoid cartilages"
+                          "id": "BAP_0021923",
+                          "name": "Cleidomastoideus (R)",
+                          "definition": "Right muscle connecting clavicle to mastoid process"
                         },
                         {
-                          "id": "BAP_0021908",
-                          "name": "Cricoarytenoideus alaris (L)",
-                          "definition": "Left alar cricoarytenoid muscle"
+                          "id": "BAP_0021920",
+                          "name": "Cleidooccipitalis (L)",
+                          "definition": "Left muscle connecting clavicle to occiput"
                         },
                         {
-                          "id": "BAP_0021909",
-                          "name": "Cricoarytenoideus alaris (R)",
-                          "definition": "Right alar cricoarytenoid muscle"
+                          "id": "BAP_0021921",
+                          "name": "Cleidooccipitalis (R)",
+                          "definition": "Right muscle connecting clavicle to occiput"
                         },
                         {
-                          "id": "BAP_0021910",
-                          "name": "Cricoarytenoideus lateralis (L)",
-                          "definition": "Left lateral cricoarytenoid muscle; adducts vocal folds"
+                          "id": "BAP_0021928",
+                          "name": "Jugulohyoideus (L)",
+                          "definition": "Left muscle connecting jugular region to hyoid bone"
                         },
                         {
-                          "id": "BAP_0021911",
-                          "name": "Cricoarytenoideus lateralis (R)",
-                          "definition": "Right lateral cricoarytenoid muscle; adducts vocal folds"
+                          "id": "BAP_0021929",
+                          "name": "Jugulohyoideus (R)",
+                          "definition": "Right muscle connecting jugular region to hyoid bone"
                         },
                         {
-                          "id": "BAP_0021912",
-                          "name": "Cricoarytenoideus posterior (L)",
-                          "definition": "Left posterior cricoarytenoid muscle; abducts vocal folds"
+                          "id": "BAP_0021703",
+                          "name": "Laryngeal muscles",
+                          "definition": "Laryngeal muscles",
+                          "children": [
+                            {
+                              "id": "BAP_0021914",
+                              "name": "Arytenoideus (L)",
+                              "definition": "Left arytenoid muscle; adducts arytenoid cartilages"
+                            },
+                            {
+                              "id": "BAP_0021915",
+                              "name": "Arytenoideus (R)",
+                              "definition": "Right arytenoid muscle; adducts arytenoid cartilages"
+                            },
+                            {
+                              "id": "BAP_0021908",
+                              "name": "Cricoarytenoideus alaris (L)",
+                              "definition": "Left alar cricoarytenoid muscle"
+                            },
+                            {
+                              "id": "BAP_0021909",
+                              "name": "Cricoarytenoideus alaris (R)",
+                              "definition": "Right alar cricoarytenoid muscle"
+                            },
+                            {
+                              "id": "BAP_0021910",
+                              "name": "Cricoarytenoideus lateralis (L)",
+                              "definition": "Left lateral cricoarytenoid muscle; adducts vocal folds"
+                            },
+                            {
+                              "id": "BAP_0021911",
+                              "name": "Cricoarytenoideus lateralis (R)",
+                              "definition": "Right lateral cricoarytenoid muscle; adducts vocal folds"
+                            },
+                            {
+                              "id": "BAP_0021912",
+                              "name": "Cricoarytenoideus posterior (L)",
+                              "definition": "Left posterior cricoarytenoid muscle; abducts vocal folds"
+                            },
+                            {
+                              "id": "BAP_0021913",
+                              "name": "Cricoarytenoideus posterior (R)",
+                              "definition": "Right posterior cricoarytenoid muscle; abducts vocal folds"
+                            },
+                            {
+                              "id": "BAP_0021906",
+                              "name": "Thyroarytenoideus (L)",
+                              "definition": "Left laryngeal muscle; adducts vocal folds"
+                            },
+                            {
+                              "id": "BAP_0021907",
+                              "name": "Thyroarytenoideus (R)",
+                              "definition": "Right laryngeal muscle; adducts vocal folds"
+                            }
+                          ]
                         },
                         {
-                          "id": "BAP_0021913",
-                          "name": "Cricoarytenoideus posterior (R)",
-                          "definition": "Right posterior cricoarytenoid muscle; abducts vocal folds"
+                          "id": "BAP_0021705",
+                          "name": "Pharyngeal muscles",
+                          "definition": "Pharyngeal muscles",
+                          "children": [
+                            {
+                              "id": "BAP_0021894",
+                              "name": "Constrictor pharyngis inferior (L)",
+                              "definition": "Left inferior pharyngeal constrictor muscle"
+                            },
+                            {
+                              "id": "BAP_0021895",
+                              "name": "Constrictor pharyngis inferior (R)",
+                              "definition": "Right inferior pharyngeal constrictor muscle"
+                            },
+                            {
+                              "id": "BAP_0021892",
+                              "name": "Constrictor pharyngis medius (L)",
+                              "definition": "Left middle pharyngeal constrictor muscle"
+                            },
+                            {
+                              "id": "BAP_0021893",
+                              "name": "Constrictor pharyngis medius (R)",
+                              "definition": "Right middle pharyngeal constrictor muscle"
+                            },
+                            {
+                              "id": "BAP_0021890",
+                              "name": "Constrictor pharyngis superior (L)",
+                              "definition": "Left superior pharyngeal constrictor muscle"
+                            },
+                            {
+                              "id": "BAP_0021891",
+                              "name": "Constrictor pharyngis superior (R)",
+                              "definition": "Right superior pharyngeal constrictor muscle"
+                            },
+                            {
+                              "id": "BAP_0021900",
+                              "name": "Levator veli palatini (L)",
+                              "definition": "Left pharyngeal muscle; elevates the soft palate"
+                            },
+                            {
+                              "id": "BAP_0021901",
+                              "name": "Levator veli palatini (R)",
+                              "definition": "Right pharyngeal muscle; elevates the soft palate"
+                            },
+                            {
+                              "id": "BAP_0021898",
+                              "name": "Palatopharyngeus (L)",
+                              "definition": "Left muscle connecting soft palate to pharynx"
+                            },
+                            {
+                              "id": "BAP_0021899",
+                              "name": "Palatopharyngeus (R)",
+                              "definition": "Right muscle connecting soft palate to pharynx"
+                            },
+                            {
+                              "id": "BAP_0021896",
+                              "name": "Pterygopharyngeus (L)",
+                              "definition": "Left muscle connecting pterygoid region to pharynx"
+                            },
+                            {
+                              "id": "BAP_0021897",
+                              "name": "Pterygopharyngeus (R)",
+                              "definition": "Right muscle connecting pterygoid region to pharynx"
+                            },
+                            {
+                              "id": "BAP_0021902",
+                              "name": "Salpingopharyngeus (L)",
+                              "definition": "Left muscle connecting auditory tube to pharynx"
+                            },
+                            {
+                              "id": "BAP_0021903",
+                              "name": "Salpingopharyngeus (R)",
+                              "definition": "Right muscle connecting auditory tube to pharynx"
+                            },
+                            {
+                              "id": "BAP_0021818",
+                              "name": "Tensor veli palatini (L)",
+                              "definition": "Left muscle that tenses the soft palate"
+                            },
+                            {
+                              "id": "BAP_0021819",
+                              "name": "Tensor veli palatini (R)",
+                              "definition": "Right muscle that tenses the soft palate"
+                            }
+                          ]
                         },
                         {
-                          "id": "BAP_0021906",
-                          "name": "Thyroarytenoideus (L)",
-                          "definition": "Left laryngeal muscle; adducts vocal folds"
+                          "id": "BAP_0021924",
+                          "name": "Sternomastoideus (L)",
+                          "definition": "Left muscle connecting sternum to mastoid process"
                         },
                         {
-                          "id": "BAP_0021907",
-                          "name": "Thyroarytenoideus (R)",
-                          "definition": "Right laryngeal muscle; adducts vocal folds"
+                          "id": "BAP_0021925",
+                          "name": "Sternomastoideus (R)",
+                          "definition": "Right muscle connecting sternum to mastoid process"
+                        },
+                        {
+                          "id": "BAP_000050",
+                          "name": "Trapezius",
+                          "definition": null,
+                          "children": [
+                            {
+                              "id": "BAP_0021916",
+                              "name": "Acromiotrapezius (L)",
+                              "definition": "Left acromial part of trapezius muscle"
+                            },
+                            {
+                              "id": "BAP_0021917",
+                              "name": "Acromiotrapezius (R)",
+                              "definition": "Right acromial part of trapezius muscle"
+                            },
+                            {
+                              "id": "BAP_0021918",
+                              "name": "Spinotrapezius (L)",
+                              "definition": "Left spinal part of trapezius muscle"
+                            },
+                            {
+                              "id": "BAP_0021919",
+                              "name": "Spinotrapezius (R)",
+                              "definition": "Right spinal part of trapezius muscle"
+                            }
+                          ]
                         }
                       ]
                     },
                     {
-                      "id": "BAP_0021934",
-                      "name": "Omohyoideus (L)",
-                      "definition": "Left infrahyoid muscle; depresses hyoid bone and stabilizes during speech"
-                    },
-                    {
-                      "id": "BAP_0021935",
-                      "name": "Omohyoideus (R)",
-                      "definition": "Right infrahyoid muscle; depresses hyoid bone and stabilizes during speech"
-                    },
-                    {
-                      "id": "BAP_0021705",
-                      "name": "Pharyngeal muscles",
-                      "definition": "Pharyngeal muscles",
+                      "id": "BAP_0099111",
+                      "name": "Neck muscles (spinal nerve innervated)",
+                      "definition": "Neck muscles innervated by spinal nerves",
                       "children": [
                         {
-                          "id": "BAP_0021894",
-                          "name": "Constrictor pharyngis inferior (L)",
-                          "definition": "Left inferior pharyngeal constrictor muscle"
+                          "id": "BAP_0021926",
+                          "name": "Cricothyroideus (L)",
+                          "definition": "Left muscle connecting cricoid to thyroid cartilage; tenses vocal folds"
                         },
                         {
-                          "id": "BAP_0021895",
-                          "name": "Constrictor pharyngis inferior (R)",
-                          "definition": "Right inferior pharyngeal constrictor muscle"
+                          "id": "BAP_0021927",
+                          "name": "Cricothyroideus (R)",
+                          "definition": "Right muscle connecting cricoid to thyroid cartilage; tenses vocal folds"
                         },
                         {
-                          "id": "BAP_0021892",
-                          "name": "Constrictor pharyngis medius (L)",
-                          "definition": "Left middle pharyngeal constrictor muscle"
+                          "id": "BAP_0099112",
+                          "name": "Epaxial Neck muscles (dorsal ramus innervated)",
+                          "definition": "Deep back muscles of the neck innervated by dorsal rami of spinal nerves",
+                          "children": [
+                            {
+                              "id": "BAP_0099115",
+                              "name": "Semispinalis (L)",
+                              "definition": "Left semispinalis muscle of the neck"
+                            },
+                            {
+                              "id": "BAP_0099116",
+                              "name": "Semispinalis (R)",
+                              "definition": "Right semispinalis muscle of the neck"
+                            },
+                            {
+                              "id": "BAP_0099117",
+                              "name": "Splenius (L)",
+                              "definition": "Left splenius muscle group",
+                              "children": [
+                                {
+                                  "id": "BAP_0099119",
+                                  "name": "Splenius capitis (L)",
+                                  "definition": "Left splenius capitis muscle; extends and rotates head"
+                                },
+                                {
+                                  "id": "BAP_0099121",
+                                  "name": "Splenius cervicis (L)",
+                                  "definition": "Left splenius cervicis muscle; extends and rotates neck"
+                                }
+                              ]
+                            },
+                            {
+                              "id": "BAP_0099118",
+                              "name": "Splenius (R)",
+                              "definition": "Right splenius muscle group",
+                              "children": [
+                                {
+                                  "id": "BAP_0099120",
+                                  "name": "Splenius capitis (R)",
+                                  "definition": "Right splenius capitis muscle; extends and rotates head"
+                                },
+                                {
+                                  "id": "BAP_0099122",
+                                  "name": "Splenius cervicis (R)",
+                                  "definition": "Right splenius cervicis muscle; extends and rotates neck"
+                                }
+                              ]
+                            },
+                            {
+                              "id": "BAP_0099123",
+                              "name": "Transversospinalis muscles (L)",
+                              "definition": "Left transversospinalis muscle group of the neck"
+                            },
+                            {
+                              "id": "BAP_0099124",
+                              "name": "Transversospinalis muscles (R)",
+                              "definition": "Right transversospinalis muscle group of the neck"
+                            }
+                          ]
                         },
                         {
-                          "id": "BAP_0021893",
-                          "name": "Constrictor pharyngis medius (R)",
-                          "definition": "Right middle pharyngeal constrictor muscle"
+                          "id": "BAP_0099113",
+                          "name": "Hypaxial Neck muscles (ventral ramus innervated)",
+                          "definition": "Ventral neck muscles innervated by ventral rami of spinal nerves",
+                          "children": [
+                            {
+                              "id": "BAP_0099135",
+                              "name": "Esophagus muscles",
+                              "definition": "Muscles of the esophagus in the neck region"
+                            },
+                            {
+                              "id": "BAP_0099133",
+                              "name": "Longus capitis (L)",
+                              "definition": "Left prevertebral muscle; flexes head"
+                            },
+                            {
+                              "id": "BAP_0099134",
+                              "name": "Longus capitis (R)",
+                              "definition": "Right prevertebral muscle; flexes head"
+                            },
+                            {
+                              "id": "BAP_0099131",
+                              "name": "Longus colli (L)",
+                              "definition": "Left prevertebral muscle; flexes neck"
+                            },
+                            {
+                              "id": "BAP_0099132",
+                              "name": "Longus colli (R)",
+                              "definition": "Right prevertebral muscle; flexes neck"
+                            },
+                            {
+                              "id": "BAP_0099125",
+                              "name": "Scalenus dorsalis (L)",
+                              "definition": "Left dorsal scalene muscle"
+                            },
+                            {
+                              "id": "BAP_0099126",
+                              "name": "Scalenus dorsalis (R)",
+                              "definition": "Right dorsal scalene muscle"
+                            },
+                            {
+                              "id": "BAP_0099127",
+                              "name": "Scalenus medius (L)",
+                              "definition": "Left middle scalene muscle"
+                            },
+                            {
+                              "id": "BAP_0099128",
+                              "name": "Scalenus medius (R)",
+                              "definition": "Right middle scalene muscle"
+                            },
+                            {
+                              "id": "BAP_0099129",
+                              "name": "Scalenus ventralis (L)",
+                              "definition": "Left ventral scalene muscle"
+                            },
+                            {
+                              "id": "BAP_0099130",
+                              "name": "Scalenus ventralis (R)",
+                              "definition": "Right ventral scalene muscle"
+                            }
+                          ]
                         },
                         {
-                          "id": "BAP_0021890",
-                          "name": "Constrictor pharyngis superior (L)",
-                          "definition": "Left superior pharyngeal constrictor muscle"
+                          "id": "BAP_0021934",
+                          "name": "Omohyoideus (L)",
+                          "definition": "Left infrahyoid muscle; depresses hyoid bone and stabilizes during speech"
                         },
                         {
-                          "id": "BAP_0021891",
-                          "name": "Constrictor pharyngis superior (R)",
-                          "definition": "Right superior pharyngeal constrictor muscle"
+                          "id": "BAP_0021935",
+                          "name": "Omohyoideus (R)",
+                          "definition": "Right infrahyoid muscle; depresses hyoid bone and stabilizes during speech"
                         },
                         {
-                          "id": "BAP_0021900",
-                          "name": "Levator veli palatini (L)",
-                          "definition": "Left pharyngeal muscle; elevates the soft palate"
+                          "id": "BAP_0021932",
+                          "name": "Sternohyoideus (L)",
+                          "definition": "Left infrahyoid muscle; depresses hyoid bone after swallowing"
                         },
                         {
-                          "id": "BAP_0021901",
-                          "name": "Levator veli palatini (R)",
-                          "definition": "Right pharyngeal muscle; elevates the soft palate"
+                          "id": "BAP_0021933",
+                          "name": "Sternohyoideus (R)",
+                          "definition": "Right infrahyoid muscle; depresses hyoid bone after swallowing"
                         },
                         {
-                          "id": "BAP_0021898",
-                          "name": "Palatopharyngeus (L)",
-                          "definition": "Left muscle connecting soft palate to pharynx"
+                          "id": "BAP_0021936",
+                          "name": "Sternothyroideus (L)",
+                          "definition": "Left muscle that depresses thyroid cartilage"
                         },
                         {
-                          "id": "BAP_0021899",
-                          "name": "Palatopharyngeus (R)",
-                          "definition": "Right muscle connecting soft palate to pharynx"
+                          "id": "BAP_0021937",
+                          "name": "Sternothyroideus (R)",
+                          "definition": "Right muscle that depresses thyroid cartilage"
                         },
                         {
-                          "id": "BAP_0021896",
-                          "name": "Pterygopharyngeus (L)",
-                          "definition": "Left muscle connecting pterygoid region to pharynx"
+                          "id": "BAP_0021938",
+                          "name": "Thyrohyoideus (L)",
+                          "definition": "Left muscle that depresses hyoid and elevates thyroid"
                         },
                         {
-                          "id": "BAP_0021897",
-                          "name": "Pterygopharyngeus (R)",
-                          "definition": "Right muscle connecting pterygoid region to pharynx"
-                        },
-                        {
-                          "id": "BAP_0021902",
-                          "name": "Salpingopharyngeus (L)",
-                          "definition": "Left muscle connecting auditory tube to pharynx"
-                        },
-                        {
-                          "id": "BAP_0021903",
-                          "name": "Salpingopharyngeus (R)",
-                          "definition": "Right muscle connecting auditory tube to pharynx"
-                        },
-                        {
-                          "id": "BAP_0021818",
-                          "name": "Tensor veli palatini (L)",
-                          "definition": "Left muscle that tenses the soft palate"
-                        },
-                        {
-                          "id": "BAP_0021819",
-                          "name": "Tensor veli palatini (R)",
-                          "definition": "Right muscle that tenses the soft palate"
-                        }
-                      ]
-                    },
-                    {
-                      "id": "BAP_0021924",
-                      "name": "Sternomastoideus (L)",
-                      "definition": "Left muscle connecting sternum to mastoid process"
-                    },
-                    {
-                      "id": "BAP_0021925",
-                      "name": "Sternomastoideus (R)",
-                      "definition": "Right muscle connecting sternum to mastoid process"
-                    },
-                    {
-                      "id": "BAP_0021936",
-                      "name": "Sternothyroideus (L)",
-                      "definition": "Left muscle that depresses thyroid cartilage"
-                    },
-                    {
-                      "id": "BAP_0021937",
-                      "name": "Sternothyroideus (R)",
-                      "definition": "Right muscle that depresses thyroid cartilage"
-                    },
-                    {
-                      "id": "BAP_0021938",
-                      "name": "Thyrohyoideus (L)",
-                      "definition": "Left muscle that depresses hyoid and elevates thyroid"
-                    },
-                    {
-                      "id": "BAP_0021939",
-                      "name": "Thyrohyoideus (R)",
-                      "definition": "Right muscle that depresses hyoid and elevates thyroid"
-                    },
-                    {
-                      "id": "BAP_000050",
-                      "name": "Trapezius",
-                      "definition": null,
-                      "children": [
-                        {
-                          "id": "BAP_0021916",
-                          "name": "Acromiotrapezius (L)",
-                          "definition": "Left acromial part of trapezius muscle"
-                        },
-                        {
-                          "id": "BAP_0021917",
-                          "name": "Acromiotrapezius (R)",
-                          "definition": "Right acromial part of trapezius muscle"
-                        },
-                        {
-                          "id": "BAP_0021918",
-                          "name": "Spinotrapezius (L)",
-                          "definition": "Left spinal part of trapezius muscle"
-                        },
-                        {
-                          "id": "BAP_0021919",
-                          "name": "Spinotrapezius (R)",
-                          "definition": "Right spinal part of trapezius muscle"
+                          "id": "BAP_0021939",
+                          "name": "Thyrohyoideus (R)",
+                          "definition": "Right muscle that depresses hyoid and elevates thyroid"
                         }
                       ]
                     }
@@ -32475,7 +34028,44 @@
                     {
                       "id": "BAP_0000132",
                       "name": "Cervical vertebra",
-                      "definition": "Vertebrae of the cervical spine"
+                      "definition": "Vertebrae of the cervical spine",
+                      "children": [
+                        {
+                          "id": "BAP_0099136",
+                          "name": "C1",
+                          "definition": "First cervical vertebra (atlas)"
+                        },
+                        {
+                          "id": "BAP_0099137",
+                          "name": "C2",
+                          "definition": "Second cervical vertebra (axis)"
+                        },
+                        {
+                          "id": "BAP_0099138",
+                          "name": "C3",
+                          "definition": "Third cervical vertebra"
+                        },
+                        {
+                          "id": "BAP_0099139",
+                          "name": "C4",
+                          "definition": "Fourth cervical vertebra"
+                        },
+                        {
+                          "id": "BAP_0099140",
+                          "name": "C5",
+                          "definition": "Fifth cervical vertebra"
+                        },
+                        {
+                          "id": "BAP_0099141",
+                          "name": "C6",
+                          "definition": "Sixth cervical vertebra"
+                        },
+                        {
+                          "id": "BAP_0099142",
+                          "name": "C7",
+                          "definition": "Seventh cervical vertebra"
+                        }
+                      ]
                     },
                     {
                       "id": "BAP_0021704",

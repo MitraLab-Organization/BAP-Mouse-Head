@@ -14,6 +14,7 @@ Usage:
 import argparse
 import json
 import re
+from html import unescape
 from pathlib import Path
 from collections import defaultdict
 
@@ -79,10 +80,10 @@ def parse_owl(owl_path: Path) -> tuple[dict, dict]:
                 break
 
         label_match = label_pattern.search(body)
-        name = label_match.group(1).strip() if label_match else struct_id
+        name = unescape(label_match.group(1).strip()) if label_match else struct_id
 
         def_match = def_pattern.search(body)
-        definition = def_match.group(1).strip() if def_match else ""
+        definition = unescape(def_match.group(1).strip()) if def_match else ""
 
         structures[struct_id] = {
             "id": struct_id,
