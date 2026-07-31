@@ -186,7 +186,7 @@
 
     <!-- http://purl.obolibrary.org/obo/BAP_000050 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_000050">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0021101"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099114"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002005"/>
@@ -575,7 +575,7 @@
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021703 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021703">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0021101"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099114"/>
         <obo:IAO_0000115 xml:lang="en">Laryngeal muscles</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Laryngeal muscles</rdfs:label>
     </owl:Class>
@@ -589,7 +589,7 @@
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021705 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021705">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0021101"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099114"/>
         <obo:IAO_0000115 xml:lang="en">Pharyngeal muscles</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Pharyngeal muscles</rdfs:label>
     </owl:Class>
@@ -603,7 +603,7 @@
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021707 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021707">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099078"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0020101"/>
         <obo:IAO_0000115 xml:lang="en">Middle ear containing ossicles (incus, malleus, stapes)</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Middle ear</rdfs:label>
     </owl:Class>
@@ -764,14 +764,14 @@
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021730 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021730">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0020007"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099089"/>
         <obo:IAO_0000115 xml:lang="en">Left vibrissae - tactile hairs</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Whiskers (L)</rdfs:label>
     </owl:Class>
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021731 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021731">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0020007"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099090"/>
         <obo:IAO_0000115 xml:lang="en">Right vibrissae - tactile hairs</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Whiskers (R)</rdfs:label>
     </owl:Class>
@@ -2426,14 +2426,14 @@
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021904 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021904">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0000079"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0022022"/>
         <obo:IAO_0000115 xml:lang="en">Left sternofacial muscle</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Sternofacialis left (L)</rdfs:label>
     </owl:Class>
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021905 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021905">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0000079"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0022022"/>
         <obo:IAO_0000115 xml:lang="en">Right sternofacial muscle</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Sternofacialis left (R)</rdfs:label>
     </owl:Class>
@@ -2538,70 +2538,70 @@
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021920 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021920">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0021101"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099114"/>
         <obo:IAO_0000115 xml:lang="en">Left muscle connecting clavicle to occiput</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Cleidooccipitalis (L)</rdfs:label>
     </owl:Class>
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021921 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021921">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0021101"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099114"/>
         <obo:IAO_0000115 xml:lang="en">Right muscle connecting clavicle to occiput</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Cleidooccipitalis (R)</rdfs:label>
     </owl:Class>
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021922 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021922">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0021101"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099114"/>
         <obo:IAO_0000115 xml:lang="en">Left muscle connecting clavicle to mastoid process</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Cleidomastoideus (L)</rdfs:label>
     </owl:Class>
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021923 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021923">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0021101"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099114"/>
         <obo:IAO_0000115 xml:lang="en">Right muscle connecting clavicle to mastoid process</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Cleidomastoideus (R)</rdfs:label>
     </owl:Class>
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021924 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021924">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0021101"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099114"/>
         <obo:IAO_0000115 xml:lang="en">Left muscle connecting sternum to mastoid process</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Sternomastoideus (L)</rdfs:label>
     </owl:Class>
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021925 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021925">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0021101"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099114"/>
         <obo:IAO_0000115 xml:lang="en">Right muscle connecting sternum to mastoid process</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Sternomastoideus (R)</rdfs:label>
     </owl:Class>
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021926 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021926">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0021101"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099111"/>
         <obo:IAO_0000115 xml:lang="en">Left muscle connecting cricoid to thyroid cartilage; tenses vocal folds</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Cricothyroideus (L)</rdfs:label>
     </owl:Class>
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021927 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021927">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0021101"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099111"/>
         <obo:IAO_0000115 xml:lang="en">Right muscle connecting cricoid to thyroid cartilage; tenses vocal folds</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Cricothyroideus (R)</rdfs:label>
     </owl:Class>
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021928 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021928">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0021101"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099114"/>
         <obo:IAO_0000115 xml:lang="en">Left muscle connecting jugular region to hyoid bone</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Jugulohyoideus (L)</rdfs:label>
     </owl:Class>
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021929 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021929">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0021101"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099114"/>
         <obo:IAO_0000115 xml:lang="en">Right muscle connecting jugular region to hyoid bone</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Jugulohyoideus (R)</rdfs:label>
     </owl:Class>
@@ -2622,56 +2622,56 @@
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021932 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021932">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0012007"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099111"/>
         <obo:IAO_0000115 xml:lang="en">Left infrahyoid muscle; depresses hyoid bone after swallowing</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Sternohyoideus (L)</rdfs:label>
     </owl:Class>
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021933 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021933">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0012007"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099111"/>
         <obo:IAO_0000115 xml:lang="en">Right infrahyoid muscle; depresses hyoid bone after swallowing</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Sternohyoideus (R)</rdfs:label>
     </owl:Class>
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021934 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021934">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0021101"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099111"/>
         <obo:IAO_0000115 xml:lang="en">Left infrahyoid muscle; depresses hyoid bone and stabilizes during speech</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Omohyoideus (L)</rdfs:label>
     </owl:Class>
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021935 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021935">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0021101"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099111"/>
         <obo:IAO_0000115 xml:lang="en">Right infrahyoid muscle; depresses hyoid bone and stabilizes during speech</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Omohyoideus (R)</rdfs:label>
     </owl:Class>
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021936 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021936">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0021101"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099111"/>
         <obo:IAO_0000115 xml:lang="en">Left muscle that depresses thyroid cartilage</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Sternothyroideus (L)</rdfs:label>
     </owl:Class>
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021937 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021937">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0021101"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099111"/>
         <obo:IAO_0000115 xml:lang="en">Right muscle that depresses thyroid cartilage</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Sternothyroideus (R)</rdfs:label>
     </owl:Class>
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021938 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021938">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0021101"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099111"/>
         <obo:IAO_0000115 xml:lang="en">Left muscle that depresses hyoid and elevates thyroid</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Thyrohyoideus (L)</rdfs:label>
     </owl:Class>
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021939 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021939">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0021101"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099111"/>
         <obo:IAO_0000115 xml:lang="en">Right muscle that depresses hyoid and elevates thyroid</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Thyrohyoideus (R)</rdfs:label>
     </owl:Class>
@@ -3084,14 +3084,14 @@
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021998 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021998">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0020005"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0022024"/>
         <obo:IAO_0000115 xml:lang="en">Left gland that produces tears</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Lacrimal gland (L)</rdfs:label>
     </owl:Class>
 
     <!-- http://purl.obolibrary.org/obo/BAP_0021999 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0021999">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0020005"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0022024"/>
         <obo:IAO_0000115 xml:lang="en">Right gland that produces tears</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Lacrimal gland (R)</rdfs:label>
     </owl:Class>
@@ -3126,7 +3126,7 @@
 
     <!-- http://purl.obolibrary.org/obo/BAP_0022013 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0022013">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099078"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0020101"/>
         <obo:IAO_0000115 xml:lang="en">Sensory organ containing cochlea, semicircular canals, and vestibule</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Inner Ear</rdfs:label>
     </owl:Class>
@@ -3204,42 +3204,42 @@
     <!-- http://purl.obolibrary.org/obo/BAP_0022024 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0022024">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0020005"/>
-        <obo:IAO_0000115 xml:lang="en">Tear-producing glands of the orbit</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">Parent group for lacrimal glands</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Lacrimal gland</rdfs:label>
     </owl:Class>
 
     <!-- http://purl.obolibrary.org/obo/BAP_0022025 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0022025">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0022024"/>
-        <obo:IAO_0000115 xml:lang="en">Left intraorbital portion of the lacrimal gland within the orbit</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">Left lacrimal gland located within the orbit</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Intraorbital lacrimal gland (L)</rdfs:label>
     </owl:Class>
 
     <!-- http://purl.obolibrary.org/obo/BAP_0022026 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0022026">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0022024"/>
-        <obo:IAO_0000115 xml:lang="en">Right intraorbital portion of the lacrimal gland within the orbit</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">Right lacrimal gland located within the orbit</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Intraorbital lacrimal gland (R)</rdfs:label>
     </owl:Class>
 
     <!-- http://purl.obolibrary.org/obo/BAP_0022027 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0022027">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0022024"/>
-        <obo:IAO_0000115 xml:lang="en">Left Harderian gland; orbital gland that lubricates the nictitating membrane</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">Left gland located behind the eye; secretes lipids</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Harderian gland (L)</rdfs:label>
     </owl:Class>
 
     <!-- http://purl.obolibrary.org/obo/BAP_0022028 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0022028">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0022024"/>
-        <obo:IAO_0000115 xml:lang="en">Right Harderian gland; orbital gland that lubricates the nictitating membrane</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">Right gland located behind the eye; secretes lipids</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Harderian gland (R)</rdfs:label>
     </owl:Class>
 
     <!-- http://purl.obolibrary.org/obo/BAP_0022029 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0022029">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0000139"/>
-        <obo:IAO_0000115 xml:lang="en">Median partition dividing the nasal cavity; bony and cartilaginous components</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">Midline cartilaginous and bony partition dividing the nasal cavity</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Nasal septum</rdfs:label>
     </owl:Class>
 
@@ -21168,6 +21168,426 @@
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0000138"/>
         <obo:IAO_0000115 xml:lang="en">Right alisphenoid bone; forms part of the sphenoid complex and cranial base</obo:IAO_0000115>
         <rdfs:label xml:lang="en">Alisphenoid (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099083 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099083">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0022024"/>
+        <obo:IAO_0000115 xml:lang="en">Left lacrimal gland located outside the orbit</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Extraorbital lacrimal gland (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099084 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099084">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0022024"/>
+        <obo:IAO_0000115 xml:lang="en">Right lacrimal gland located outside the orbit</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Extraorbital lacrimal gland (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099085 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099085">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0020005"/>
+        <obo:IAO_0000115 xml:lang="en">Left serous glands associated with circumvallate papillae of the tongue</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Von Ebner&apos;s Glands (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099086 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099086">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0020005"/>
+        <obo:IAO_0000115 xml:lang="en">Right serous glands associated with circumvallate papillae of the tongue</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Von Ebner&apos;s Glands (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099087 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099087">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0020007"/>
+        <obo:IAO_0000115 xml:lang="en">Left upper lip</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Upper lip (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099088 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099088">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0020007"/>
+        <obo:IAO_0000115 xml:lang="en">Right upper lip</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Upper lip (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099089 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099089">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0020007"/>
+        <obo:IAO_0000115 xml:lang="en">Left whisker pad</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Mystacial pad (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099090 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099090">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0020007"/>
+        <obo:IAO_0000115 xml:lang="en">Right whisker pad</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Mystacial pad (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099091 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099091">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0020007"/>
+        <obo:IAO_0000115 xml:lang="en">Lower lip (midline structure)</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Lower lip</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099092 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099092">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0020007"/>
+        <obo:IAO_0000115 xml:lang="en">Midline groove between the nose and upper lip</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Philtrum</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099093 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099093">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0020007"/>
+        <obo:IAO_0000115 xml:lang="en">Left upper eyelid</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Upper eyelid (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099094 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099094">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0020007"/>
+        <obo:IAO_0000115 xml:lang="en">Right upper eyelid</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Upper eyelid (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099095 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099095">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0020007"/>
+        <obo:IAO_0000115 xml:lang="en">Left lower eyelid</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Lower eyelid (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099096 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099096">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0020007"/>
+        <obo:IAO_0000115 xml:lang="en">Right lower eyelid</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Lower eyelid (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099097 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099097">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0022022"/>
+        <obo:IAO_0000115 xml:lang="en">Left deep nasolabial muscle of facial expression</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Nasolabialis profundus (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099098 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099098">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0022022"/>
+        <obo:IAO_0000115 xml:lang="en">Right deep nasolabial muscle of facial expression</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Nasolabialis profundus (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099099 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099099">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0022022"/>
+        <obo:IAO_0000115 xml:lang="en">Left nasolabial muscle of facial expression</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Nasolabialis (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099100 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099100">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0022022"/>
+        <obo:IAO_0000115 xml:lang="en">Right nasolabial muscle of facial expression</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Nasolabialis (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099101 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099101">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0022022"/>
+        <obo:IAO_0000115 xml:lang="en">Left maxillolabial muscle of facial expression</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Maxillolabialis (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099102 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099102">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0022022"/>
+        <obo:IAO_0000115 xml:lang="en">Right maxillolabial muscle of facial expression</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Maxillolabialis (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099103 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099103">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0022022"/>
+        <obo:IAO_0000115 xml:lang="en">Left oblique intrinsic whisker follicle muscle</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Oblique intrinsic muscle (whisker) (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099104 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099104">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0022022"/>
+        <obo:IAO_0000115 xml:lang="en">Right oblique intrinsic whisker follicle muscle</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Oblique intrinsic muscle (whisker) (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099105 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099105">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0022022"/>
+        <obo:IAO_0000115 xml:lang="en">Left transverse nasal muscle</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Transversus nasi (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099106 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099106">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0022022"/>
+        <obo:IAO_0000115 xml:lang="en">Right transverse nasal muscle</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Transversus nasi (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099107 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099107">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0021720"/>
+        <obo:IAO_0000115 xml:lang="en">Left head and neck lymph nodes</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Lymph nodes (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099108 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099108">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0021720"/>
+        <obo:IAO_0000115 xml:lang="en">Left nasal-associated lymphoid tissue (NALT)</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Nasal-Associated Lymphoid Tissue (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099109 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099109">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0021721"/>
+        <obo:IAO_0000115 xml:lang="en">Right head and neck lymph nodes</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Lymph nodes (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099110 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099110">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0021721"/>
+        <obo:IAO_0000115 xml:lang="en">Right nasal-associated lymphoid tissue (NALT)</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Nasal-Associated Lymphoid Tissue (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099111 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099111">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0021101"/>
+        <obo:IAO_0000115 xml:lang="en">Neck muscles innervated by spinal nerves</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Neck muscles (spinal nerve innervated)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099112 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099112">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099111"/>
+        <obo:IAO_0000115 xml:lang="en">Deep back muscles of the neck innervated by dorsal rami of spinal nerves</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Epaxial Neck muscles (dorsal ramus innervated)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099113 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099113">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099111"/>
+        <obo:IAO_0000115 xml:lang="en">Ventral neck muscles innervated by ventral rami of spinal nerves</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Hypaxial Neck muscles (ventral ramus innervated)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099114 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099114">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0021101"/>
+        <obo:IAO_0000115 xml:lang="en">Neck muscles innervated by cranial nerves</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Neck muscles (cranial nerve innervated)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099115 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099115">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099112"/>
+        <obo:IAO_0000115 xml:lang="en">Left semispinalis muscle of the neck</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Semispinalis (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099116 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099116">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099112"/>
+        <obo:IAO_0000115 xml:lang="en">Right semispinalis muscle of the neck</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Semispinalis (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099117 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099117">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099112"/>
+        <obo:IAO_0000115 xml:lang="en">Left splenius muscle group</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Splenius (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099118 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099118">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099112"/>
+        <obo:IAO_0000115 xml:lang="en">Right splenius muscle group</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Splenius (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099119 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099119">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099117"/>
+        <obo:IAO_0000115 xml:lang="en">Left splenius capitis muscle; extends and rotates head</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Splenius capitis (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099120 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099120">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099118"/>
+        <obo:IAO_0000115 xml:lang="en">Right splenius capitis muscle; extends and rotates head</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Splenius capitis (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099121 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099121">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099117"/>
+        <obo:IAO_0000115 xml:lang="en">Left splenius cervicis muscle; extends and rotates neck</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Splenius cervicis (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099122 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099122">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099118"/>
+        <obo:IAO_0000115 xml:lang="en">Right splenius cervicis muscle; extends and rotates neck</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Splenius cervicis (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099123 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099123">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099112"/>
+        <obo:IAO_0000115 xml:lang="en">Left transversospinalis muscle group of the neck</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Transversospinalis muscles (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099124 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099124">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099112"/>
+        <obo:IAO_0000115 xml:lang="en">Right transversospinalis muscle group of the neck</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Transversospinalis muscles (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099125 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099125">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099113"/>
+        <obo:IAO_0000115 xml:lang="en">Left dorsal scalene muscle</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Scalenus dorsalis (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099126 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099126">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099113"/>
+        <obo:IAO_0000115 xml:lang="en">Right dorsal scalene muscle</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Scalenus dorsalis (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099127 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099127">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099113"/>
+        <obo:IAO_0000115 xml:lang="en">Left middle scalene muscle</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Scalenus medius (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099128 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099128">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099113"/>
+        <obo:IAO_0000115 xml:lang="en">Right middle scalene muscle</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Scalenus medius (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099129 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099129">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099113"/>
+        <obo:IAO_0000115 xml:lang="en">Left ventral scalene muscle</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Scalenus ventralis (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099130 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099130">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099113"/>
+        <obo:IAO_0000115 xml:lang="en">Right ventral scalene muscle</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Scalenus ventralis (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099131 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099131">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099113"/>
+        <obo:IAO_0000115 xml:lang="en">Left prevertebral muscle; flexes neck</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Longus colli (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099132 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099132">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099113"/>
+        <obo:IAO_0000115 xml:lang="en">Right prevertebral muscle; flexes neck</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Longus colli (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099133 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099133">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099113"/>
+        <obo:IAO_0000115 xml:lang="en">Left prevertebral muscle; flexes head</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Longus capitis (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099134 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099134">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099113"/>
+        <obo:IAO_0000115 xml:lang="en">Right prevertebral muscle; flexes head</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Longus capitis (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099135 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099135">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0099113"/>
+        <obo:IAO_0000115 xml:lang="en">Muscles of the esophagus in the neck region</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Esophagus muscles</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099136 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099136">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0000132"/>
+        <obo:IAO_0000115 xml:lang="en">First cervical vertebra (atlas)</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">C1</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099137 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099137">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0000132"/>
+        <obo:IAO_0000115 xml:lang="en">Second cervical vertebra (axis)</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">C2</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099138 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099138">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0000132"/>
+        <obo:IAO_0000115 xml:lang="en">Third cervical vertebra</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">C3</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099139 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099139">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0000132"/>
+        <obo:IAO_0000115 xml:lang="en">Fourth cervical vertebra</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">C4</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099140 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099140">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0000132"/>
+        <obo:IAO_0000115 xml:lang="en">Fifth cervical vertebra</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">C5</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099141 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099141">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0000132"/>
+        <obo:IAO_0000115 xml:lang="en">Sixth cervical vertebra</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">C6</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099142 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099142">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0000132"/>
+        <obo:IAO_0000115 xml:lang="en">Seventh cervical vertebra</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">C7</rdfs:label>
     </owl:Class>
 
 </rdf:RDF>
