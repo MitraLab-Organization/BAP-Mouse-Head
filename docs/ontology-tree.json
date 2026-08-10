@@ -4,31 +4,31 @@
       "id": "BAP_0000001",
       "name": "Head",
       "definition": "Head region of the mouse",
-      "parent": "BAP_012000"
+      "parent": "BAP_0012000"
     },
-    "BAP_000002": {
-      "id": "BAP_000002",
+    "BAP_0000002": {
+      "id": "BAP_0000002",
       "name": "Neck",
       "definition": "",
-      "parent": "BAP_012000"
+      "parent": "BAP_0012000"
     },
-    "BAP_000003": {
-      "id": "BAP_000003",
+    "BAP_0000003": {
+      "id": "BAP_0000003",
       "name": "Thorax",
       "definition": "",
-      "parent": "BAP_012001"
+      "parent": "BAP_0012001"
     },
-    "BAP_000004": {
-      "id": "BAP_000004",
-      "name": "Forelimb",
-      "definition": "",
-      "parent": "BAP_000006"
+    "BAP_0000004": {
+      "id": "BAP_0000004",
+      "name": "Forelimb (L)",
+      "definition": "Left anterior limb",
+      "parent": "BAP_0000006"
     },
-    "BAP_000006": {
-      "id": "BAP_000006",
+    "BAP_0000006": {
+      "id": "BAP_0000006",
       "name": "Appendages",
       "definition": "",
-      "parent": "BAP_012000"
+      "parent": "BAP_0012000"
     },
     "BAP_0000007": {
       "id": "BAP_0000007",
@@ -42,32 +42,32 @@
       "definition": "Nasal passage",
       "parent": "BAP_0020006"
     },
-    "BAP_000011": {
-      "id": "BAP_000011",
+    "BAP_0000011": {
+      "id": "BAP_0000011",
       "name": "Tail",
       "definition": "",
-      "parent": "BAP_000006"
+      "parent": "BAP_0000006"
     },
-    "BAP_000015": {
-      "id": "BAP_000015",
+    "BAP_0000015": {
+      "id": "BAP_0000015",
       "name": "Masseter",
       "definition": "Primary muscle of mastication; elevates and protrudes the mandible",
       "parent": "BAP_0022023"
     },
-    "BAP_000019": {
-      "id": "BAP_000019",
+    "BAP_0000019": {
+      "id": "BAP_0000019",
       "name": "Temporalis",
       "definition": "Muscle of mastication; elevates and retracts the mandible",
       "parent": "BAP_0022023"
     },
-    "BAP_000047": {
-      "id": "BAP_000047",
+    "BAP_0000047": {
+      "id": "BAP_0000047",
       "name": "Orbicularis oris",
       "definition": "",
       "parent": "BAP_0022022"
     },
-    "BAP_000050": {
-      "id": "BAP_000050",
+    "BAP_0000050": {
+      "id": "BAP_0000050",
       "name": "Trapezius",
       "definition": "",
       "parent": "BAP_0099114"
@@ -84,8 +84,8 @@
       "definition": "Pharyngeal passage",
       "parent": "BAP_0021005"
     },
-    "BAP_000083": {
-      "id": "BAP_000083",
+    "BAP_0000083": {
+      "id": "BAP_0000083",
       "name": "Esophagus",
       "definition": "",
       "parent": "BAP_0000079"
@@ -168,32 +168,32 @@
       "definition": "Facial skeleton bones",
       "parent": "BAP_0020101"
     },
-    "BAP_012000": {
-      "id": "BAP_012000",
+    "BAP_0012000": {
+      "id": "BAP_0012000",
       "name": "Body",
       "definition": "Root structure for the entire body",
       "parent": null
     },
-    "BAP_012001": {
-      "id": "BAP_012001",
+    "BAP_0012001": {
+      "id": "BAP_0012001",
       "name": "Trunk",
       "definition": "Central body region containing thorax, abdomen, and pelvis",
-      "parent": "BAP_012000"
+      "parent": "BAP_0012000"
     },
-    "BAP_012004": {
-      "id": "BAP_012004",
+    "BAP_0012004": {
+      "id": "BAP_0012004",
       "name": "Brain",
       "definition": "Central nervous system organ in the head",
       "parent": "BAP_0020202"
     },
-    "BAP_012005": {
-      "id": "BAP_012005",
+    "BAP_0012005": {
+      "id": "BAP_0012005",
       "name": "Spinal Cord",
       "definition": "Central nervous system structure extending from brain",
       "parent": "BAP_0021203"
     },
-    "BAP_012006": {
-      "id": "BAP_012006",
+    "BAP_0012006": {
+      "id": "BAP_0012006",
       "name": "Cranial Nerves",
       "definition": "Group of nerves emerging directly from the brain",
       "parent": "BAP_0020201"
@@ -310,37 +310,37 @@
       "id": "BAP_0021001",
       "name": "Neck musculoskeletal system",
       "definition": "Musculoskeletal structures of the neck",
-      "parent": "BAP_000002"
+      "parent": "BAP_0000002"
     },
     "BAP_0021002": {
       "id": "BAP_0021002",
       "name": "Neck nervous system",
       "definition": "Neural structures of the neck",
-      "parent": "BAP_000002"
+      "parent": "BAP_0000002"
     },
     "BAP_0021003": {
       "id": "BAP_0021003",
       "name": "Neck vascular system",
       "definition": "Blood vessels and lymphatics of the neck",
-      "parent": "BAP_000002"
+      "parent": "BAP_0000002"
     },
     "BAP_0021004": {
       "id": "BAP_0021004",
       "name": "Neck endocrine and exocrine system",
       "definition": "Glandular structures of the neck",
-      "parent": "BAP_000002"
+      "parent": "BAP_0000002"
     },
     "BAP_0021005": {
       "id": "BAP_0021005",
       "name": "Neck cavities and passages",
       "definition": "Anatomical passages of the neck",
-      "parent": "BAP_000002"
+      "parent": "BAP_0000002"
     },
     "BAP_0021006": {
       "id": "BAP_0021006",
       "name": "Neck integumentary system",
       "definition": "Skin of the neck",
-      "parent": "BAP_000002"
+      "parent": "BAP_0000002"
     },
     "BAP_0021101": {
       "id": "BAP_0021101",
@@ -622,37 +622,37 @@
       "id": "BAP_0021742",
       "name": "Abdomen (L)",
       "definition": "Left abdominal region of the trunk",
-      "parent": "BAP_012001"
+      "parent": "BAP_0012001"
     },
     "BAP_0021743": {
       "id": "BAP_0021743",
       "name": "Abdomen (R)",
       "definition": "Right abdominal region of the trunk",
-      "parent": "BAP_012001"
+      "parent": "BAP_0012001"
     },
     "BAP_0021744": {
       "id": "BAP_0021744",
       "name": "Pelvis (L)",
       "definition": "Left pelvic region of the trunk",
-      "parent": "BAP_012001"
+      "parent": "BAP_0012001"
     },
     "BAP_0021745": {
       "id": "BAP_0021745",
       "name": "Pelvis (R)",
       "definition": "Right pelvic region of the trunk",
-      "parent": "BAP_012001"
+      "parent": "BAP_0012001"
     },
     "BAP_0021746": {
       "id": "BAP_0021746",
       "name": "Hindlimb (L)",
       "definition": "Left posterior limb",
-      "parent": "BAP_000006"
+      "parent": "BAP_0000006"
     },
     "BAP_0021747": {
       "id": "BAP_0021747",
       "name": "Hindlimb (R)",
       "definition": "Right posterior limb",
-      "parent": "BAP_000006"
+      "parent": "BAP_0000006"
     },
     "BAP_0021748": {
       "id": "BAP_0021748",
@@ -934,97 +934,97 @@
       "id": "BAP_0021794",
       "name": "Sternum (L)",
       "definition": "Left breastbone",
-      "parent": "BAP_000003"
+      "parent": "BAP_0000003"
     },
     "BAP_0021795": {
       "id": "BAP_0021795",
       "name": "Sternum (R)",
       "definition": "Right breastbone",
-      "parent": "BAP_000003"
+      "parent": "BAP_0000003"
     },
     "BAP_0021796": {
       "id": "BAP_0021796",
       "name": "Clavicle (L)",
       "definition": "Left collarbone",
-      "parent": "BAP_000004"
+      "parent": "BAP_0000004"
     },
     "BAP_0021797": {
       "id": "BAP_0021797",
       "name": "Clavicle (R)",
       "definition": "Right collarbone",
-      "parent": "BAP_000004"
+      "parent": "BAP_0099143"
     },
     "BAP_0021798": {
       "id": "BAP_0021798",
       "name": "Scapula (L)",
       "definition": "Left shoulder blade",
-      "parent": "BAP_000004"
+      "parent": "BAP_0000004"
     },
     "BAP_0021799": {
       "id": "BAP_0021799",
       "name": "Scapula (R)",
       "definition": "Right shoulder blade",
-      "parent": "BAP_000004"
+      "parent": "BAP_0099143"
     },
     "BAP_0021800": {
       "id": "BAP_0021800",
       "name": "Superficial masseter (L)",
       "definition": "Left superficial portion of masseter; elevates and protrudes mandible",
-      "parent": "BAP_000015"
+      "parent": "BAP_0000015"
     },
     "BAP_0021801": {
       "id": "BAP_0021801",
       "name": "Superficial masseter (R)",
       "definition": "Right superficial portion of masseter; elevates and protrudes mandible",
-      "parent": "BAP_000015"
+      "parent": "BAP_0000015"
     },
     "BAP_0021802": {
       "id": "BAP_0021802",
       "name": "Deep masseter (L)",
       "definition": "Left deep portion of masseter; elevates mandible with vertical force",
-      "parent": "BAP_000015"
+      "parent": "BAP_0000015"
     },
     "BAP_0021803": {
       "id": "BAP_0021803",
       "name": "Deep masseter (R)",
       "definition": "Right deep portion of masseter; elevates mandible with vertical force",
-      "parent": "BAP_000015"
+      "parent": "BAP_0000015"
     },
     "BAP_0021804": {
       "id": "BAP_0021804",
       "name": "Zygomaticomandibularis (L)",
       "definition": "Left accessory masticatory muscle; assists in jaw elevation",
-      "parent": "BAP_000015"
+      "parent": "BAP_0000015"
     },
     "BAP_0021805": {
       "id": "BAP_0021805",
       "name": "Zygomaticomandibularis (R)",
       "definition": "Right accessory masticatory muscle; assists in jaw elevation",
-      "parent": "BAP_000015"
+      "parent": "BAP_0000015"
     },
     "BAP_0021806": {
       "id": "BAP_0021806",
       "name": "Temporalis lateralis (L)",
       "definition": "Left lateral portion of temporalis muscle",
-      "parent": "BAP_000019"
+      "parent": "BAP_0000019"
     },
     "BAP_0021807": {
       "id": "BAP_0021807",
       "name": "Temporalis lateralis (R)",
       "definition": "Right lateral portion of temporalis muscle",
-      "parent": "BAP_000019"
+      "parent": "BAP_0000019"
     },
     "BAP_0021808": {
       "id": "BAP_0021808",
       "name": "Temporalis medialis (L)",
       "definition": "Left medial portion of temporalis muscle",
-      "parent": "BAP_000019"
+      "parent": "BAP_0000019"
     },
     "BAP_0021809": {
       "id": "BAP_0021809",
       "name": "Temporalis medialis (R)",
       "definition": "Right medial portion of temporalis muscle",
-      "parent": "BAP_000019"
+      "parent": "BAP_0000019"
     },
     "BAP_0021810": {
       "id": "BAP_0021810",
@@ -1666,25 +1666,25 @@
       "id": "BAP_0021916",
       "name": "Acromiotrapezius (L)",
       "definition": "Left acromial part of trapezius muscle",
-      "parent": "BAP_000050"
+      "parent": "BAP_0000050"
     },
     "BAP_0021917": {
       "id": "BAP_0021917",
       "name": "Acromiotrapezius (R)",
       "definition": "Right acromial part of trapezius muscle",
-      "parent": "BAP_000050"
+      "parent": "BAP_0000050"
     },
     "BAP_0021918": {
       "id": "BAP_0021918",
       "name": "Spinotrapezius (L)",
       "definition": "Left spinal part of trapezius muscle",
-      "parent": "BAP_000050"
+      "parent": "BAP_0000050"
     },
     "BAP_0021919": {
       "id": "BAP_0021919",
       "name": "Spinotrapezius (R)",
       "definition": "Right spinal part of trapezius muscle",
-      "parent": "BAP_000050"
+      "parent": "BAP_0000050"
     },
     "BAP_0021920": {
       "id": "BAP_0021920",
@@ -1930,157 +1930,157 @@
       "id": "BAP_0021960",
       "name": "Terminal nerve (L)",
       "definition": "Left cranial nerve zero, associated with pheromone detection",
-      "parent": "BAP_012006"
+      "parent": "BAP_0012006"
     },
     "BAP_0021961": {
       "id": "BAP_0021961",
       "name": "Terminal nerve (R)",
       "definition": "Right cranial nerve zero, associated with pheromone detection",
-      "parent": "BAP_012006"
+      "parent": "BAP_0012006"
     },
     "BAP_0021962": {
       "id": "BAP_0021962",
       "name": "Olfactory nerve (L)",
       "definition": "Left first cranial nerve, sensory for smell",
-      "parent": "BAP_012006"
+      "parent": "BAP_0012006"
     },
     "BAP_0021963": {
       "id": "BAP_0021963",
       "name": "Olfactory nerve (R)",
       "definition": "Right first cranial nerve, sensory for smell",
-      "parent": "BAP_012006"
+      "parent": "BAP_0012006"
     },
     "BAP_0021964": {
       "id": "BAP_0021964",
       "name": "Optic nerve (L)",
       "definition": "Left second cranial nerve, sensory for vision",
-      "parent": "BAP_012006"
+      "parent": "BAP_0012006"
     },
     "BAP_0021965": {
       "id": "BAP_0021965",
       "name": "Optic nerve (R)",
       "definition": "Right second cranial nerve, sensory for vision",
-      "parent": "BAP_012006"
+      "parent": "BAP_0012006"
     },
     "BAP_0021966": {
       "id": "BAP_0021966",
       "name": "Oculomotor nerve (L)",
       "definition": "Left third cranial nerve, motor for eye movement",
-      "parent": "BAP_012006"
+      "parent": "BAP_0012006"
     },
     "BAP_0021967": {
       "id": "BAP_0021967",
       "name": "Oculomotor nerve (R)",
       "definition": "Right third cranial nerve, motor for eye movement",
-      "parent": "BAP_012006"
+      "parent": "BAP_0012006"
     },
     "BAP_0021968": {
       "id": "BAP_0021968",
       "name": "Trochlear nerve (L)",
       "definition": "Left fourth cranial nerve, motor for superior oblique muscle",
-      "parent": "BAP_012006"
+      "parent": "BAP_0012006"
     },
     "BAP_0021969": {
       "id": "BAP_0021969",
       "name": "Trochlear nerve (R)",
       "definition": "Right fourth cranial nerve, motor for superior oblique muscle",
-      "parent": "BAP_012006"
+      "parent": "BAP_0012006"
     },
     "BAP_0021970": {
       "id": "BAP_0021970",
       "name": "Trigeminal nerve (L)",
       "definition": "Left fifth cranial nerve, sensory and motor for face",
-      "parent": "BAP_012006"
+      "parent": "BAP_0012006"
     },
     "BAP_0021971": {
       "id": "BAP_0021971",
       "name": "Trigeminal nerve (R)",
       "definition": "Right fifth cranial nerve, sensory and motor for face",
-      "parent": "BAP_012006"
+      "parent": "BAP_0012006"
     },
     "BAP_0021972": {
       "id": "BAP_0021972",
       "name": "Abducens nerve (L)",
       "definition": "Left sixth cranial nerve, motor for lateral rectus muscle",
-      "parent": "BAP_012006"
+      "parent": "BAP_0012006"
     },
     "BAP_0021973": {
       "id": "BAP_0021973",
       "name": "Abducens nerve (R)",
       "definition": "Right sixth cranial nerve, motor for lateral rectus muscle",
-      "parent": "BAP_012006"
+      "parent": "BAP_0012006"
     },
     "BAP_0021974": {
       "id": "BAP_0021974",
       "name": "Facial nerve (L)",
       "definition": "Left seventh cranial nerve, motor for facial expression",
-      "parent": "BAP_012006"
+      "parent": "BAP_0012006"
     },
     "BAP_0021975": {
       "id": "BAP_0021975",
       "name": "Facial nerve (R)",
       "definition": "Right seventh cranial nerve, motor for facial expression",
-      "parent": "BAP_012006"
+      "parent": "BAP_0012006"
     },
     "BAP_0021976": {
       "id": "BAP_0021976",
       "name": "Vestibulocochlear nerve (L)",
       "definition": "Left eighth cranial nerve, sensory for hearing and balance",
-      "parent": "BAP_012006"
+      "parent": "BAP_0012006"
     },
     "BAP_0021977": {
       "id": "BAP_0021977",
       "name": "Vestibulocochlear nerve (R)",
       "definition": "Right eighth cranial nerve, sensory for hearing and balance",
-      "parent": "BAP_012006"
+      "parent": "BAP_0012006"
     },
     "BAP_0021978": {
       "id": "BAP_0021978",
       "name": "Glossopharyngeal nerve (L)",
       "definition": "Left ninth cranial nerve, sensory and motor for pharynx and tongue",
-      "parent": "BAP_012006"
+      "parent": "BAP_0012006"
     },
     "BAP_0021979": {
       "id": "BAP_0021979",
       "name": "Glossopharyngeal nerve (R)",
       "definition": "Right ninth cranial nerve, sensory and motor for pharynx and tongue",
-      "parent": "BAP_012006"
+      "parent": "BAP_0012006"
     },
     "BAP_0021980": {
       "id": "BAP_0021980",
       "name": "Vagus nerve (L)",
       "definition": "Left tenth cranial nerve, mixed nerve for visceral functions",
-      "parent": "BAP_012006"
+      "parent": "BAP_0012006"
     },
     "BAP_0021981": {
       "id": "BAP_0021981",
       "name": "Vagus nerve (R)",
       "definition": "Right tenth cranial nerve, mixed nerve for visceral functions",
-      "parent": "BAP_012006"
+      "parent": "BAP_0012006"
     },
     "BAP_0021982": {
       "id": "BAP_0021982",
       "name": "Accessory nerve (L)",
       "definition": "Left eleventh cranial nerve, motor for neck and shoulder muscles",
-      "parent": "BAP_012006"
+      "parent": "BAP_0012006"
     },
     "BAP_0021983": {
       "id": "BAP_0021983",
       "name": "Accessory nerve (R)",
       "definition": "Right eleventh cranial nerve, motor for neck and shoulder muscles",
-      "parent": "BAP_012006"
+      "parent": "BAP_0012006"
     },
     "BAP_0021984": {
       "id": "BAP_0021984",
       "name": "Hypoglossal nerve (L)",
       "definition": "Left twelfth cranial nerve, motor for tongue muscles",
-      "parent": "BAP_012006"
+      "parent": "BAP_0012006"
     },
     "BAP_0021985": {
       "id": "BAP_0021985",
       "name": "Hypoglossal nerve (R)",
       "definition": "Right twelfth cranial nerve, motor for tongue muscles",
-      "parent": "BAP_012006"
+      "parent": "BAP_0012006"
     },
     "BAP_0021986": {
       "id": "BAP_0021986",
@@ -2296,7 +2296,7 @@
       "id": "BAP_0022030",
       "name": "Grey matter",
       "definition": "",
-      "parent": "BAP_012004"
+      "parent": "BAP_0012004"
     },
     "BAP_0022031": {
       "id": "BAP_0022031",
@@ -2386,13 +2386,13 @@
       "id": "BAP_0022045",
       "name": "Fiber tracts",
       "definition": "",
-      "parent": "BAP_012004"
+      "parent": "BAP_0012004"
     },
     "BAP_0022046": {
       "id": "BAP_0022046",
       "name": "Ventricular systems",
       "definition": "",
-      "parent": "BAP_012004"
+      "parent": "BAP_0012004"
     },
     "BAP_0022047": {
       "id": "BAP_0022047",
@@ -17166,366 +17166,6 @@
       "definition": "",
       "parent": "BAP_0024421"
     },
-    "BAP_0099001": {
-      "id": "BAP_0099001",
-      "name": "A1 (L)",
-      "definition": "Left A1 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099002": {
-      "id": "BAP_0099002",
-      "name": "A1 (R)",
-      "definition": "Right A1 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099003": {
-      "id": "BAP_0099003",
-      "name": "A2 (L)",
-      "definition": "Left A2 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099004": {
-      "id": "BAP_0099004",
-      "name": "A2 (R)",
-      "definition": "Right A2 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099005": {
-      "id": "BAP_0099005",
-      "name": "A3 (L)",
-      "definition": "Left A3 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099006": {
-      "id": "BAP_0099006",
-      "name": "A3 (R)",
-      "definition": "Right A3 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099007": {
-      "id": "BAP_0099007",
-      "name": "A4 (L)",
-      "definition": "Left A4 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099008": {
-      "id": "BAP_0099008",
-      "name": "A4 (R)",
-      "definition": "Right A4 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099009": {
-      "id": "BAP_0099009",
-      "name": "A5 (L)",
-      "definition": "Left A5 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099010": {
-      "id": "BAP_0099010",
-      "name": "A5 (R)",
-      "definition": "Right A5 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099011": {
-      "id": "BAP_0099011",
-      "name": "B1 (L)",
-      "definition": "Left B1 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099012": {
-      "id": "BAP_0099012",
-      "name": "B1 (R)",
-      "definition": "Right B1 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099013": {
-      "id": "BAP_0099013",
-      "name": "B2 (L)",
-      "definition": "Left B2 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099014": {
-      "id": "BAP_0099014",
-      "name": "B2 (R)",
-      "definition": "Right B2 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099015": {
-      "id": "BAP_0099015",
-      "name": "B3 (L)",
-      "definition": "Left B3 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099016": {
-      "id": "BAP_0099016",
-      "name": "B3 (R)",
-      "definition": "Right B3 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099017": {
-      "id": "BAP_0099017",
-      "name": "B4 (L)",
-      "definition": "Left B4 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099018": {
-      "id": "BAP_0099018",
-      "name": "B4 (R)",
-      "definition": "Right B4 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099019": {
-      "id": "BAP_0099019",
-      "name": "B5 (L)",
-      "definition": "Left B5 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099020": {
-      "id": "BAP_0099020",
-      "name": "B5 (R)",
-      "definition": "Right B5 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099021": {
-      "id": "BAP_0099021",
-      "name": "C1 (L)",
-      "definition": "Left C1 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099022": {
-      "id": "BAP_0099022",
-      "name": "C1 (R)",
-      "definition": "Right C1 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099023": {
-      "id": "BAP_0099023",
-      "name": "C2 (L)",
-      "definition": "Left C2 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099024": {
-      "id": "BAP_0099024",
-      "name": "C2 (R)",
-      "definition": "Right C2 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099025": {
-      "id": "BAP_0099025",
-      "name": "C3 (L)",
-      "definition": "Left C3 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099026": {
-      "id": "BAP_0099026",
-      "name": "C3 (R)",
-      "definition": "Right C3 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099027": {
-      "id": "BAP_0099027",
-      "name": "C4 (L)",
-      "definition": "Left C4 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099028": {
-      "id": "BAP_0099028",
-      "name": "C4 (R)",
-      "definition": "Right C4 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099029": {
-      "id": "BAP_0099029",
-      "name": "C5 (L)",
-      "definition": "Left C5 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099030": {
-      "id": "BAP_0099030",
-      "name": "C5 (R)",
-      "definition": "Right C5 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099031": {
-      "id": "BAP_0099031",
-      "name": "C6 (L)",
-      "definition": "Left C6 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099032": {
-      "id": "BAP_0099032",
-      "name": "C6 (R)",
-      "definition": "Right C6 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099033": {
-      "id": "BAP_0099033",
-      "name": "C7 (L)",
-      "definition": "Left C7 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099034": {
-      "id": "BAP_0099034",
-      "name": "C7 (R)",
-      "definition": "Right C7 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099035": {
-      "id": "BAP_0099035",
-      "name": "D1 (L)",
-      "definition": "Left D1 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099036": {
-      "id": "BAP_0099036",
-      "name": "D1 (R)",
-      "definition": "Right D1 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099037": {
-      "id": "BAP_0099037",
-      "name": "D2 (L)",
-      "definition": "Left D2 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099038": {
-      "id": "BAP_0099038",
-      "name": "D2 (R)",
-      "definition": "Right D2 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099039": {
-      "id": "BAP_0099039",
-      "name": "D3 (L)",
-      "definition": "Left D3 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099040": {
-      "id": "BAP_0099040",
-      "name": "D3 (R)",
-      "definition": "Right D3 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099041": {
-      "id": "BAP_0099041",
-      "name": "D4 (L)",
-      "definition": "Left D4 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099042": {
-      "id": "BAP_0099042",
-      "name": "D4 (R)",
-      "definition": "Right D4 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099043": {
-      "id": "BAP_0099043",
-      "name": "D5 (L)",
-      "definition": "Left D5 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099044": {
-      "id": "BAP_0099044",
-      "name": "D5 (R)",
-      "definition": "Right D5 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099045": {
-      "id": "BAP_0099045",
-      "name": "D6 (L)",
-      "definition": "Left D6 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099046": {
-      "id": "BAP_0099046",
-      "name": "D6 (R)",
-      "definition": "Right D6 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099047": {
-      "id": "BAP_0099047",
-      "name": "D7 (L)",
-      "definition": "Left D7 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099048": {
-      "id": "BAP_0099048",
-      "name": "D7 (R)",
-      "definition": "Right D7 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099049": {
-      "id": "BAP_0099049",
-      "name": "E2 (L)",
-      "definition": "Left E2 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099050": {
-      "id": "BAP_0099050",
-      "name": "E2 (R)",
-      "definition": "Right E2 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099051": {
-      "id": "BAP_0099051",
-      "name": "E3 (L)",
-      "definition": "Left E3 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099052": {
-      "id": "BAP_0099052",
-      "name": "E3 (R)",
-      "definition": "Right E3 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099053": {
-      "id": "BAP_0099053",
-      "name": "E4 (L)",
-      "definition": "Left E4 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099054": {
-      "id": "BAP_0099054",
-      "name": "E4 (R)",
-      "definition": "Right E4 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099055": {
-      "id": "BAP_0099055",
-      "name": "E5 (L)",
-      "definition": "Left E5 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099056": {
-      "id": "BAP_0099056",
-      "name": "E5 (R)",
-      "definition": "Right E5 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099057": {
-      "id": "BAP_0099057",
-      "name": "E6 (L)",
-      "definition": "Left E6 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099058": {
-      "id": "BAP_0099058",
-      "name": "E6 (R)",
-      "definition": "Right E6 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099059": {
-      "id": "BAP_0099059",
-      "name": "E7 (L)",
-      "definition": "Left E7 whisker",
-      "parent": "BAP_0021730"
-    },
-    "BAP_0099060": {
-      "id": "BAP_0099060",
-      "name": "E7 (R)",
-      "definition": "Right E7 whisker",
-      "parent": "BAP_0021730"
-    },
     "BAP_0099061": {
       "id": "BAP_0099061",
       "name": "Teeth",
@@ -17627,24 +17267,6 @@
       "name": "Lower molar 3 (R)",
       "definition": "Right third lower molar tooth",
       "parent": "BAP_0099061"
-    },
-    "BAP_0099078": {
-      "id": "BAP_0099078",
-      "name": "Ear",
-      "definition": "Ear structures of the cranium including tympanic bulla, middle ear, and inner ear",
-      "parent": "BAP_0020101"
-    },
-    "BAP_0099079": {
-      "id": "BAP_0099079",
-      "name": "Tympanic bulla (L)",
-      "definition": "Left bony bulbous expansion of the temporal bone enclosing the middle ear",
-      "parent": "BAP_0099078"
-    },
-    "BAP_0099080": {
-      "id": "BAP_0099080",
-      "name": "Tympanic bulla (R)",
-      "definition": "Right bony bulbous expansion of the temporal bone enclosing the middle ear",
-      "parent": "BAP_0099078"
     },
     "BAP_0099081": {
       "id": "BAP_0099081",
@@ -18017,23 +17639,29 @@
       "name": "C7",
       "definition": "Seventh cervical vertebra",
       "parent": "BAP_0000132"
+    },
+    "BAP_0099143": {
+      "id": "BAP_0099143",
+      "name": "Forelimb (R)",
+      "definition": "Right anterior limb",
+      "parent": "BAP_0000006"
     }
   },
   "tree": [
     {
-      "id": "BAP_012000",
+      "id": "BAP_0012000",
       "name": "Body",
       "definition": "Root structure for the entire body",
       "children": [
         {
-          "id": "BAP_000006",
+          "id": "BAP_0000006",
           "name": "Appendages",
           "definition": null,
           "children": [
             {
-              "id": "BAP_000004",
-              "name": "Forelimb",
-              "definition": null,
+              "id": "BAP_0000004",
+              "name": "Forelimb (L)",
+              "definition": "Left anterior limb",
               "children": [
                 {
                   "id": "BAP_0021796",
@@ -18041,14 +17669,21 @@
                   "definition": "Left collarbone"
                 },
                 {
-                  "id": "BAP_0021797",
-                  "name": "Clavicle (R)",
-                  "definition": "Right collarbone"
-                },
-                {
                   "id": "BAP_0021798",
                   "name": "Scapula (L)",
                   "definition": "Left shoulder blade"
+                }
+              ]
+            },
+            {
+              "id": "BAP_0099143",
+              "name": "Forelimb (R)",
+              "definition": "Right anterior limb",
+              "children": [
+                {
+                  "id": "BAP_0021797",
+                  "name": "Clavicle (R)",
+                  "definition": "Right collarbone"
                 },
                 {
                   "id": "BAP_0021799",
@@ -18068,7 +17703,7 @@
               "definition": "Right posterior limb"
             },
             {
-              "id": "BAP_000011",
+              "id": "BAP_0000011",
               "name": "Tail",
               "definition": null
             }
@@ -18324,309 +17959,7 @@
                     {
                       "id": "BAP_0021730",
                       "name": "Whiskers (L)",
-                      "definition": "Left vibrissae - tactile hairs",
-                      "children": [
-                        {
-                          "id": "BAP_0099001",
-                          "name": "A1 (L)",
-                          "definition": "Left A1 whisker"
-                        },
-                        {
-                          "id": "BAP_0099002",
-                          "name": "A1 (R)",
-                          "definition": "Right A1 whisker"
-                        },
-                        {
-                          "id": "BAP_0099003",
-                          "name": "A2 (L)",
-                          "definition": "Left A2 whisker"
-                        },
-                        {
-                          "id": "BAP_0099004",
-                          "name": "A2 (R)",
-                          "definition": "Right A2 whisker"
-                        },
-                        {
-                          "id": "BAP_0099005",
-                          "name": "A3 (L)",
-                          "definition": "Left A3 whisker"
-                        },
-                        {
-                          "id": "BAP_0099006",
-                          "name": "A3 (R)",
-                          "definition": "Right A3 whisker"
-                        },
-                        {
-                          "id": "BAP_0099007",
-                          "name": "A4 (L)",
-                          "definition": "Left A4 whisker"
-                        },
-                        {
-                          "id": "BAP_0099008",
-                          "name": "A4 (R)",
-                          "definition": "Right A4 whisker"
-                        },
-                        {
-                          "id": "BAP_0099009",
-                          "name": "A5 (L)",
-                          "definition": "Left A5 whisker"
-                        },
-                        {
-                          "id": "BAP_0099010",
-                          "name": "A5 (R)",
-                          "definition": "Right A5 whisker"
-                        },
-                        {
-                          "id": "BAP_0099011",
-                          "name": "B1 (L)",
-                          "definition": "Left B1 whisker"
-                        },
-                        {
-                          "id": "BAP_0099012",
-                          "name": "B1 (R)",
-                          "definition": "Right B1 whisker"
-                        },
-                        {
-                          "id": "BAP_0099013",
-                          "name": "B2 (L)",
-                          "definition": "Left B2 whisker"
-                        },
-                        {
-                          "id": "BAP_0099014",
-                          "name": "B2 (R)",
-                          "definition": "Right B2 whisker"
-                        },
-                        {
-                          "id": "BAP_0099015",
-                          "name": "B3 (L)",
-                          "definition": "Left B3 whisker"
-                        },
-                        {
-                          "id": "BAP_0099016",
-                          "name": "B3 (R)",
-                          "definition": "Right B3 whisker"
-                        },
-                        {
-                          "id": "BAP_0099017",
-                          "name": "B4 (L)",
-                          "definition": "Left B4 whisker"
-                        },
-                        {
-                          "id": "BAP_0099018",
-                          "name": "B4 (R)",
-                          "definition": "Right B4 whisker"
-                        },
-                        {
-                          "id": "BAP_0099019",
-                          "name": "B5 (L)",
-                          "definition": "Left B5 whisker"
-                        },
-                        {
-                          "id": "BAP_0099020",
-                          "name": "B5 (R)",
-                          "definition": "Right B5 whisker"
-                        },
-                        {
-                          "id": "BAP_0099021",
-                          "name": "C1 (L)",
-                          "definition": "Left C1 whisker"
-                        },
-                        {
-                          "id": "BAP_0099022",
-                          "name": "C1 (R)",
-                          "definition": "Right C1 whisker"
-                        },
-                        {
-                          "id": "BAP_0099023",
-                          "name": "C2 (L)",
-                          "definition": "Left C2 whisker"
-                        },
-                        {
-                          "id": "BAP_0099024",
-                          "name": "C2 (R)",
-                          "definition": "Right C2 whisker"
-                        },
-                        {
-                          "id": "BAP_0099025",
-                          "name": "C3 (L)",
-                          "definition": "Left C3 whisker"
-                        },
-                        {
-                          "id": "BAP_0099026",
-                          "name": "C3 (R)",
-                          "definition": "Right C3 whisker"
-                        },
-                        {
-                          "id": "BAP_0099027",
-                          "name": "C4 (L)",
-                          "definition": "Left C4 whisker"
-                        },
-                        {
-                          "id": "BAP_0099028",
-                          "name": "C4 (R)",
-                          "definition": "Right C4 whisker"
-                        },
-                        {
-                          "id": "BAP_0099029",
-                          "name": "C5 (L)",
-                          "definition": "Left C5 whisker"
-                        },
-                        {
-                          "id": "BAP_0099030",
-                          "name": "C5 (R)",
-                          "definition": "Right C5 whisker"
-                        },
-                        {
-                          "id": "BAP_0099031",
-                          "name": "C6 (L)",
-                          "definition": "Left C6 whisker"
-                        },
-                        {
-                          "id": "BAP_0099032",
-                          "name": "C6 (R)",
-                          "definition": "Right C6 whisker"
-                        },
-                        {
-                          "id": "BAP_0099033",
-                          "name": "C7 (L)",
-                          "definition": "Left C7 whisker"
-                        },
-                        {
-                          "id": "BAP_0099034",
-                          "name": "C7 (R)",
-                          "definition": "Right C7 whisker"
-                        },
-                        {
-                          "id": "BAP_0099035",
-                          "name": "D1 (L)",
-                          "definition": "Left D1 whisker"
-                        },
-                        {
-                          "id": "BAP_0099036",
-                          "name": "D1 (R)",
-                          "definition": "Right D1 whisker"
-                        },
-                        {
-                          "id": "BAP_0099037",
-                          "name": "D2 (L)",
-                          "definition": "Left D2 whisker"
-                        },
-                        {
-                          "id": "BAP_0099038",
-                          "name": "D2 (R)",
-                          "definition": "Right D2 whisker"
-                        },
-                        {
-                          "id": "BAP_0099039",
-                          "name": "D3 (L)",
-                          "definition": "Left D3 whisker"
-                        },
-                        {
-                          "id": "BAP_0099040",
-                          "name": "D3 (R)",
-                          "definition": "Right D3 whisker"
-                        },
-                        {
-                          "id": "BAP_0099041",
-                          "name": "D4 (L)",
-                          "definition": "Left D4 whisker"
-                        },
-                        {
-                          "id": "BAP_0099042",
-                          "name": "D4 (R)",
-                          "definition": "Right D4 whisker"
-                        },
-                        {
-                          "id": "BAP_0099043",
-                          "name": "D5 (L)",
-                          "definition": "Left D5 whisker"
-                        },
-                        {
-                          "id": "BAP_0099044",
-                          "name": "D5 (R)",
-                          "definition": "Right D5 whisker"
-                        },
-                        {
-                          "id": "BAP_0099045",
-                          "name": "D6 (L)",
-                          "definition": "Left D6 whisker"
-                        },
-                        {
-                          "id": "BAP_0099046",
-                          "name": "D6 (R)",
-                          "definition": "Right D6 whisker"
-                        },
-                        {
-                          "id": "BAP_0099047",
-                          "name": "D7 (L)",
-                          "definition": "Left D7 whisker"
-                        },
-                        {
-                          "id": "BAP_0099048",
-                          "name": "D7 (R)",
-                          "definition": "Right D7 whisker"
-                        },
-                        {
-                          "id": "BAP_0099049",
-                          "name": "E2 (L)",
-                          "definition": "Left E2 whisker"
-                        },
-                        {
-                          "id": "BAP_0099050",
-                          "name": "E2 (R)",
-                          "definition": "Right E2 whisker"
-                        },
-                        {
-                          "id": "BAP_0099051",
-                          "name": "E3 (L)",
-                          "definition": "Left E3 whisker"
-                        },
-                        {
-                          "id": "BAP_0099052",
-                          "name": "E3 (R)",
-                          "definition": "Right E3 whisker"
-                        },
-                        {
-                          "id": "BAP_0099053",
-                          "name": "E4 (L)",
-                          "definition": "Left E4 whisker"
-                        },
-                        {
-                          "id": "BAP_0099054",
-                          "name": "E4 (R)",
-                          "definition": "Right E4 whisker"
-                        },
-                        {
-                          "id": "BAP_0099055",
-                          "name": "E5 (L)",
-                          "definition": "Left E5 whisker"
-                        },
-                        {
-                          "id": "BAP_0099056",
-                          "name": "E5 (R)",
-                          "definition": "Right E5 whisker"
-                        },
-                        {
-                          "id": "BAP_0099057",
-                          "name": "E6 (L)",
-                          "definition": "Left E6 whisker"
-                        },
-                        {
-                          "id": "BAP_0099058",
-                          "name": "E6 (R)",
-                          "definition": "Right E6 whisker"
-                        },
-                        {
-                          "id": "BAP_0099059",
-                          "name": "E7 (L)",
-                          "definition": "Left E7 whisker"
-                        },
-                        {
-                          "id": "BAP_0099060",
-                          "name": "E7 (R)",
-                          "definition": "Right E7 whisker"
-                        }
-                      ]
+                      "definition": "Left vibrissae - tactile hairs"
                     }
                   ]
                 },
@@ -19070,7 +18403,7 @@
                           "definition": "Right circular muscle around eye; closes eyelids"
                         },
                         {
-                          "id": "BAP_000047",
+                          "id": "BAP_0000047",
                           "name": "Orbicularis oris",
                           "definition": null
                         },
@@ -19192,7 +18525,7 @@
                       "definition": "Muscles involved in chewing and jaw movement",
                       "children": [
                         {
-                          "id": "BAP_000015",
+                          "id": "BAP_0000015",
                           "name": "Masseter",
                           "definition": "Primary muscle of mastication; elevates and protrudes the mandible",
                           "children": [
@@ -19249,7 +18582,7 @@
                           "definition": "Right muscle of mastication; elevates mandible and assists grinding motion"
                         },
                         {
-                          "id": "BAP_000019",
+                          "id": "BAP_0000019",
                           "name": "Temporalis",
                           "definition": "Muscle of mastication; elevates and retracts the mandible",
                           "children": [
@@ -19385,23 +18718,6 @@
                   "name": "Cranium",
                   "definition": "Bony skull structure",
                   "children": [
-                    {
-                      "id": "BAP_0099078",
-                      "name": "Ear",
-                      "definition": "Ear structures of the cranium including tympanic bulla, middle ear, and inner ear",
-                      "children": [
-                        {
-                          "id": "BAP_0099079",
-                          "name": "Tympanic bulla (L)",
-                          "definition": "Left bony bulbous expansion of the temporal bone enclosing the middle ear"
-                        },
-                        {
-                          "id": "BAP_0099080",
-                          "name": "Tympanic bulla (R)",
-                          "definition": "Right bony bulbous expansion of the temporal bone enclosing the middle ear"
-                        }
-                      ]
-                    },
                     {
                       "id": "BAP_0022013",
                       "name": "Inner Ear",
@@ -19697,7 +19013,7 @@
                   "definition": "Central nervous system structures in the head",
                   "children": [
                     {
-                      "id": "BAP_012004",
+                      "id": "BAP_0012004",
                       "name": "Brain",
                       "definition": "Central nervous system organ in the head",
                       "children": [
@@ -33178,7 +32494,7 @@
                   "definition": "Peripheral nerves of the head",
                   "children": [
                     {
-                      "id": "BAP_012006",
+                      "id": "BAP_0012006",
                       "name": "Cranial Nerves",
                       "definition": "Group of nerves emerging directly from the brain",
                       "children": [
@@ -33553,7 +32869,7 @@
           ]
         },
         {
-          "id": "BAP_000002",
+          "id": "BAP_0000002",
           "name": "Neck",
           "definition": null,
           "children": [
@@ -33573,7 +32889,7 @@
                   "definition": "Pharyngeal passage",
                   "children": [
                     {
-                      "id": "BAP_000083",
+                      "id": "BAP_0000083",
                       "name": "Esophagus",
                       "definition": null
                     }
@@ -33810,7 +33126,7 @@
                           "definition": "Right muscle connecting sternum to mastoid process"
                         },
                         {
-                          "id": "BAP_000050",
+                          "id": "BAP_0000050",
                           "name": "Trapezius",
                           "definition": null,
                           "children": [
@@ -34141,7 +33457,7 @@
                   "definition": "Central nervous system structures in the neck",
                   "children": [
                     {
-                      "id": "BAP_012005",
+                      "id": "BAP_0012005",
                       "name": "Spinal Cord",
                       "definition": "Central nervous system structure extending from brain"
                     }
@@ -34206,7 +33522,7 @@
           ]
         },
         {
-          "id": "BAP_012001",
+          "id": "BAP_0012001",
           "name": "Trunk",
           "definition": "Central body region containing thorax, abdomen, and pelvis",
           "children": [
@@ -34231,7 +33547,7 @@
               "definition": "Right pelvic region of the trunk"
             },
             {
-              "id": "BAP_000003",
+              "id": "BAP_0000003",
               "name": "Thorax",
               "definition": null,
               "children": [
