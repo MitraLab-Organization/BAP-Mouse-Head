@@ -17645,6 +17645,54 @@
       "name": "Forelimb (R)",
       "definition": "Right anterior limb",
       "parent": "BAP_0000006"
+    },
+    "BAP_0099144": {
+      "id": "BAP_0099144",
+      "name": "Ethmoturbinate (L)",
+      "definition": "Left ethmoid turbinate of the nasal cavity",
+      "parent": "BAP_0000010"
+    },
+    "BAP_0099145": {
+      "id": "BAP_0099145",
+      "name": "Ethmoturbinate (R)",
+      "definition": "Right ethmoid turbinate of the nasal cavity",
+      "parent": "BAP_0000010"
+    },
+    "BAP_0099146": {
+      "id": "BAP_0099146",
+      "name": "Maxilloturbinate (L)",
+      "definition": "Left maxillary turbinate of the nasal cavity",
+      "parent": "BAP_0000010"
+    },
+    "BAP_0099147": {
+      "id": "BAP_0099147",
+      "name": "Maxilloturbinate (R)",
+      "definition": "Right maxillary turbinate of the nasal cavity",
+      "parent": "BAP_0000010"
+    },
+    "BAP_0099148": {
+      "id": "BAP_0099148",
+      "name": "Nasoturbinate (L)",
+      "definition": "Left nasal turbinate of the nasal cavity",
+      "parent": "BAP_0000010"
+    },
+    "BAP_0099149": {
+      "id": "BAP_0099149",
+      "name": "Nasoturbinate (R)",
+      "definition": "Right nasal turbinate of the nasal cavity",
+      "parent": "BAP_0000010"
+    },
+    "BAP_0099150": {
+      "id": "BAP_0099150",
+      "name": "Inferior rectus (L)",
+      "definition": "Left extraocular muscle; depresses and adducts the eye",
+      "parent": "BAP_0012008"
+    },
+    "BAP_0099151": {
+      "id": "BAP_0099151",
+      "name": "Inferior rectus (R)",
+      "definition": "Right extraocular muscle; depresses and adducts the eye",
+      "parent": "BAP_0012008"
     }
   },
   "tree": [
@@ -17769,7 +17817,39 @@
                 {
                   "id": "BAP_0000010",
                   "name": "Nasal cavity",
-                  "definition": "Nasal passage"
+                  "definition": "Nasal passage",
+                  "children": [
+                    {
+                      "id": "BAP_0099144",
+                      "name": "Ethmoturbinate (L)",
+                      "definition": "Left ethmoid turbinate of the nasal cavity"
+                    },
+                    {
+                      "id": "BAP_0099145",
+                      "name": "Ethmoturbinate (R)",
+                      "definition": "Right ethmoid turbinate of the nasal cavity"
+                    },
+                    {
+                      "id": "BAP_0099146",
+                      "name": "Maxilloturbinate (L)",
+                      "definition": "Left maxillary turbinate of the nasal cavity"
+                    },
+                    {
+                      "id": "BAP_0099147",
+                      "name": "Maxilloturbinate (R)",
+                      "definition": "Right maxillary turbinate of the nasal cavity"
+                    },
+                    {
+                      "id": "BAP_0099148",
+                      "name": "Nasoturbinate (L)",
+                      "definition": "Left nasal turbinate of the nasal cavity"
+                    },
+                    {
+                      "id": "BAP_0099149",
+                      "name": "Nasoturbinate (R)",
+                      "definition": "Right nasal turbinate of the nasal cavity"
+                    }
+                  ]
                 },
                 {
                   "id": "BAP_0020601",
@@ -18026,6 +18106,16 @@
                           "id": "BAP_0021945",
                           "name": "Inferior oblique (R)",
                           "definition": "Right extraocular muscle; rotates eye upward and laterally"
+                        },
+                        {
+                          "id": "BAP_0099150",
+                          "name": "Inferior rectus (L)",
+                          "definition": "Left extraocular muscle; depresses and adducts the eye"
+                        },
+                        {
+                          "id": "BAP_0099151",
+                          "name": "Inferior rectus (R)",
+                          "definition": "Right extraocular muscle; depresses and adducts the eye"
                         },
                         {
                           "id": "BAP_0021946",

@@ -1,58 +1,70 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="http://purl.obolibrary.org/obo/#"
-     xml:base="http://purl.obolibrary.org/obo/"
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/bap.owl#"
+     xml:base="http://purl.obolibrary.org/obo/bap.owl"
      xmlns:dce="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/"
      xmlns:obo="http://purl.obolibrary.org/obo/"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-     xmlns:xml="http://www.w3.org/XML/1998/namespace"
-     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     xmlns:dcterms="http://purl.org/dc/terms/">
-    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/">
-        <dcterms:title>BAP Mouse Head Atlas Anatomical Atlas</dcterms:title>
-        <dcterms:description>Anatomical atlas ontology for Mouse (Mus musculus)</dcterms:description>
-        <dcterms:license rdf:resource="https://creativecommons.org/licenses/unspecified"/>
-        <owl:versionInfo></owl:versionInfo>
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/bap.owl">
+        <dcterms:title>BAP Mouse Head Atlas</dcterms:title>
+        <dcterms:description>Brain Architecture Project Mouse Head Anatomical Atlas</dcterms:description>
+        <owl:versionInfo>1.0.0</owl:versionInfo>
+        <dcterms:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
     </owl:Ontology>
 
     <!-- Annotation Properties -->
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
-    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000111"/>
     <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/description"/>
     <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/title"/>
-    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#label"/>
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/license"/>
 
     <!-- Object Properties -->
-    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000050">
-        <rdfs:label>part of</rdfs:label>
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0002220">
+        <rdfs:label>adjacent to</rdfs:label>
     </owl:ObjectProperty>
 
-    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000051">
-        <rdfs:label>has part</rdfs:label>
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0002371">
+        <rdfs:label>attaches to</rdfs:label>
+    </owl:ObjectProperty>
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0002150">
+        <rdfs:label>continuous with</rdfs:label>
     </owl:ObjectProperty>
 
     <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0002202">
         <rdfs:label>develops from</rdfs:label>
     </owl:ObjectProperty>
 
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000051">
+        <rdfs:label>has part</rdfs:label>
+    </owl:ObjectProperty>
+
     <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0002005">
         <rdfs:label>innervated by</rdfs:label>
+    </owl:ObjectProperty>
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0002134">
+        <rdfs:label>innervates</rdfs:label>
+    </owl:ObjectProperty>
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000050">
+        <rdfs:label>part of</rdfs:label>
     </owl:ObjectProperty>
 
     <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0002178">
         <rdfs:label>supplied by</rdfs:label>
     </owl:ObjectProperty>
 
-    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0002220">
-        <rdfs:label>adjacent to</rdfs:label>
-    </owl:ObjectProperty>
-
-    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0002202">
-        <rdfs:label>developmental origin</rdfs:label>
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0002179">
+        <rdfs:label>supplies</rdfs:label>
     </owl:ObjectProperty>
 
     <!-- Classes (Anatomical Structures) -->
+
     <!-- http://purl.obolibrary.org/obo/BAP_0000001 -->
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0000001">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0012000"/>
@@ -21157,6 +21169,62 @@
         <rdfs:label xml:lang="en">Forelimb (R)</rdfs:label>
     </owl:Class>
 
+    <!-- http://purl.obolibrary.org/obo/BAP_0099144 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099144">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0000010"/>
+        <obo:IAO_0000115 xml:lang="en">Left ethmoid turbinate of the nasal cavity</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Ethmoturbinate (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099145 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099145">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0000010"/>
+        <obo:IAO_0000115 xml:lang="en">Right ethmoid turbinate of the nasal cavity</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Ethmoturbinate (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099146 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099146">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0000010"/>
+        <obo:IAO_0000115 xml:lang="en">Left maxillary turbinate of the nasal cavity</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Maxilloturbinate (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099147 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099147">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0000010"/>
+        <obo:IAO_0000115 xml:lang="en">Right maxillary turbinate of the nasal cavity</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Maxilloturbinate (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099148 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099148">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0000010"/>
+        <obo:IAO_0000115 xml:lang="en">Left nasal turbinate of the nasal cavity</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Nasoturbinate (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099149 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099149">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0000010"/>
+        <obo:IAO_0000115 xml:lang="en">Right nasal turbinate of the nasal cavity</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Nasoturbinate (R)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099150 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099150">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0012008"/>
+        <obo:IAO_0000115 xml:lang="en">Left extraocular muscle; depresses and adducts the eye</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Inferior rectus (L)</rdfs:label>
+    </owl:Class>
+
+    <!-- http://purl.obolibrary.org/obo/BAP_0099151 -->
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BAP_0099151">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BAP_0012008"/>
+        <obo:IAO_0000115 xml:lang="en">Right extraocular muscle; depresses and adducts the eye</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Inferior rectus (R)</rdfs:label>
+    </owl:Class>
+
 </rdf:RDF>
 
-<!-- Generated by BAP Mousehead Atlas API -->
+<!-- Generated by BAP Ontology Generator -->
