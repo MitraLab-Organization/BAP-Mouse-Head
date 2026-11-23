@@ -17693,6 +17693,18 @@
       "name": "Inferior rectus (R)",
       "definition": "Right extraocular muscle; depresses and adducts the eye",
       "parent": "BAP_0012008"
+    },
+    "BAP_0099152": {
+      "id": "BAP_0099152",
+      "name": "Clavotrapezius (L)",
+      "definition": "Left clavicular part of trapezius muscle",
+      "parent": "BAP_0000050"
+    },
+    "BAP_0099153": {
+      "id": "BAP_0099153",
+      "name": "Clavotrapezius (R)",
+      "definition": "Right clavicular part of trapezius muscle",
+      "parent": "BAP_0000050"
     }
   },
   "tree": [
@@ -33229,6 +33241,16 @@
                               "id": "BAP_0021917",
                               "name": "Acromiotrapezius (R)",
                               "definition": "Right acromial part of trapezius muscle"
+                            },
+                            {
+                              "id": "BAP_0099152",
+                              "name": "Clavotrapezius (L)",
+                              "definition": "Left clavicular part of trapezius muscle"
+                            },
+                            {
+                              "id": "BAP_0099153",
+                              "name": "Clavotrapezius (R)",
+                              "definition": "Right clavicular part of trapezius muscle"
                             },
                             {
                               "id": "BAP_0021918",
